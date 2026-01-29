@@ -1,0 +1,255 @@
+
+=============================================
+                      Dependent variable:    
+                  ---------------------------
+                         takeup_survey       
+---------------------------------------------
+age                        0.025***          
+                            (0.004)          
+                                             
+agpop                      -0.041**          
+                            (0.018)          
+                                             
+educ                       0.538***          
+                            (0.153)          
+                                             
+ricearea_2010              0.007***          
+                            (0.003)          
+                                             
+insurance_repay1           0.316***          
+                            (0.077)          
+                                             
+general_trust1             0.408***          
+                            (0.112)          
+                                             
+delay1                     -0.277**          
+                            (0.124)          
+                                             
+intensive1                 0.246***          
+                            (0.075)          
+                                             
+understanding              1.059***          
+                            (0.133)          
+                                             
+risk_averse                0.522***          
+                            (0.122)          
+                                             
+educ_good1                  -0.340*          
+                            (0.197)          
+                                             
+disaster_yes1              0.302***          
+                            (0.082)          
+                                             
+address25                  -1.513**          
+                            (0.761)          
+                                             
+address26                  -1.934**          
+                            (0.828)          
+                                             
+address31                  -3.858***         
+                            (0.936)          
+                                             
+address40                   1.574**          
+                            (0.741)          
+                                             
+address66                   1.975**          
+                            (0.768)          
+                                             
+address102                  1.604**          
+                            (0.736)          
+                                             
+address129                 -1.603**          
+                            (0.809)          
+                                             
+address137                 -1.737**          
+                            (0.861)          
+                                             
+address241                 -1.794**          
+                            (0.872)          
+                                             
+address250                   0.573           
+                            (0.809)          
+                                             
+address251                  -0.925           
+                            (0.863)          
+                                             
+address252                  17.258           
+                           (882.744)         
+                                             
+address253                  -0.404           
+                            (0.769)          
+                                             
+address254                   0.282           
+                            (0.710)          
+                                             
+address255                  13.342           
+                           (882.743)         
+                                             
+address256                  14.514           
+                           (882.743)         
+                                             
+address257                  -0.200           
+                            (0.709)          
+                                             
+address259                  14.090           
+                           (882.743)         
+                                             
+address261                  14.114           
+                           (882.743)         
+                                             
+address262                   0.683           
+                            (0.797)          
+                                             
+address265                  13.996           
+                           (882.743)         
+                                             
+address267                  15.584           
+                           (882.743)         
+                                             
+address268                  14.003           
+                           (882.743)         
+                                             
+village2                                     
+                                             
+                                             
+village3                                     
+                                             
+                                             
+village4                                     
+                                             
+                                             
+village5                                     
+                                             
+                                             
+village6                                     
+                                             
+                                             
+village7                                     
+                                             
+                                             
+village8                                     
+                                             
+                                             
+village9                                     
+                                             
+                                             
+village10                                    
+                                             
+                                             
+village11                                    
+                                             
+                                             
+village12                                    
+                                             
+                                             
+village13                                    
+                                             
+                                             
+village14                                    
+                                             
+                                             
+village15                                    
+                                             
+                                             
+village16                                    
+                                             
+                                             
+village17                                    
+                                             
+                                             
+village18                                    
+                                             
+                                             
+village19                                    
+                                             
+                                             
+village20                                    
+                                             
+                                             
+village22                                    
+                                             
+                                             
+village23                                    
+                                             
+                                             
+village24                                    
+                                             
+                                             
+village25                                    
+                                             
+                                             
+village26                                    
+                                             
+                                             
+village27                                    
+                                             
+                                             
+village28                                    
+                                             
+                                             
+village29                                    
+                                             
+                                             
+village30                                    
+                                             
+                                             
+village33                                    
+                                             
+                                             
+village34                                    
+                                             
+                                             
+village35                                    
+                                             
+                                             
+village36                                    
+                                             
+                                             
+village37                                    
+                                             
+                                             
+village38                                    
+                                             
+                                             
+village39                                    
+                                             
+                                             
+village40                                    
+                                             
+                                             
+village41                                    
+                                             
+                                             
+village42                                    
+                                             
+                                             
+village44                                    
+                                             
+                                             
+village45                                    
+                                             
+                                             
+village46                                    
+                                             
+                                             
+village47                                    
+                                             
+                                             
+village48                                    
+                                             
+                                             
+village49                                    
+                                             
+                                             
+village50                                    
+                                             
+                                             
+village51                                    
+                                             
+                                             
+---------------------------------------------
+Observations                 4,166           
+Log Likelihood            -2,365.758         
+Akaike Inf. Crit.          5,143.516         
+=============================================
+Note:             *p<0.1; **p<0.05; ***p<0.01

@@ -1,0 +1,51 @@
+载入需要的程序包：readstata13
+Package already installed: readstata13
+载入需要的程序包：Matrix
+Package already installed: Matrix
+载入需要的程序包：gamlr
+Package already installed: gamlr
+载入需要的程序包：dplyr
+
+载入程序包：'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Package already installed: dplyr
+载入需要的程序包：vtable
+载入需要的程序包：kableExtra
+
+载入程序包：'kableExtra'
+
+The following object is masked from 'package:dplyr':
+
+    group_rows
+
+Package already installed: vtable
+载入需要的程序包：ranger
+Package already installed: ranger
+载入需要的程序包：ggplot2
+Package already installed: ggplot2
+载入需要的程序包：stargazer
+
+Please cite as: 
+
+ Hlavac, Marek (2022). stargazer: Well-Formatted Regression and Summary Statistics Tables.
+ R package version 5.2.3. https://CRAN.R-project.org/package=stargazer 
+
+Package already installed: stargazer
+Package already installed: kableExtra
+载入需要的程序包：knitr
+Package already installed: knitr
+警告信息:
+1: 程序包'readstata13'是用R版本4.4.3 来建造的 
+2: 程序包'gamlr'是用R版本4.4.3 来建造的 
+3: 程序包'vtable'是用R版本4.4.3 来建造的 
+4: 程序包'kableExtra'是用R版本4.4.3 来建造的 
+5: 程序包'ranger'是用R版本4.4.3 来建造的 
+Setup complete.

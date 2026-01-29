@@ -1,0 +1,9 @@
+Edited by Tianhao Cao
+05/28/2022
+
+STATA 14 is required to replicate the result.
+
+The log function in the original rawnet.do file can not be used due to lack of the log file.
+
+In order to get the 0422analysis.dta file, one line of code "sort id" must be added under section 4, otherwise it will show master data not sorted.
+

@@ -1,0 +1,1536 @@
+Q1,Q2,Q3,Q4,Q5,Q5_TEXT,Discipline,Q6,Q7,Q8,Q8_TEXT,Q9,Q10,Q10_TEXT,Q11,Q12,Q12_TEXT,Q13,Q14
+1,7,1,2,6,biomedical physics,Life sciences,2,5,6,,3,4,,3,6,,NA,1
+1,6,2,2,6,oceanography,Physical sciences,1,6,7,,4,8,,3,1,,4,2
+1,5,2,2,6,earth sciences,Life sciences,2,1,2,,5,2,,5,1,,4,2
+1,7,2,2,6,atmospheric and oceanic sciences,Physical sciences,2,2,9,deceased,4,8,,3,7,work for the US Government,NA,1
+1,5,1,1,6,environmental science and policy,Life sciences,NA,2,10,,6,3,,4,2,,NA,1
+1,5,2,2,6,chemistry,Physical sciences,2,1,2,,4,4,,4,6,,NA,2
+1,5,1,2,6,biostatistics,Life sciences,2,2,10,,6,3,,5,6,,NA,2
+1,6,2,2,6,statistics,Mathematics,1,6,2,,5,10,Clergy,5,2,,NA,1
+1,6,2,2,6,biostatistics,Life sciences,1,6,7,,4,8,,1,1,,4,1
+1,8,1,1,6,biostatistics,Life sciences,NA,2,4,,2,5,,4,2,,NA,2
+1,7,2,2,6,neuroscience,Life sciences,1,3,6,,4,4,,4,1,,4,1
+1,5,2,2,6,statistics,Mathematics,2,3,9,Government Contractor,5,4,,4,4,,NA,2
+1,5,1,2,6,statistics,Mathematics,2,4,2,,5,8,,5,1,,206,1
+1,5,1,2,6,neuroscience,Life sciences,2,1,9,Projects Manager,5,10,Software Designer,5,6,,NA,1
+1,7,2,1,6,biostatistics ,Life sciences,NA,1,6,,3,8,,4,4,,NA,1
+1,5,2,2,6,neuroscience,Life sciences,1,3,8,,4,3,,6,1,,4,1
+1,6,2,1,6,epidemiology,Life sciences,NA,1,2,,4,2,,3,2,,NA,2
+1,6,1,1,6,biostatistics,Life sciences,NA,1,9,Self-Employed,3,5,,3,4,,NA,1
+1,6,1,1,6,biostatistics,Life sciences,NA,1,9,He is deceased,4,10,Government Employee at the County Level,4,4,,NA,1
+1,6,1,2,6,bioengineering,Engineering,2,2,7,,3,8,,3,4,,NA,1
+1,6,1,2,6,computational neuroscience,Life sciences,1,3,10,,5,4,,3,4,,NA,2
+1,3,2,2,6,information studies,Physical sciences,2,3,10,,6,8,,5,1,,4,1
+1,6,2,1,6,computer graphics technology,Physical sciences,NA,3,6,,3,3,,4,4,,NA,2
+1,6,1,2,6,technology,Physical sciences,2,2,2,,4,3,,3,4,,NA,2
+1,5,4,1,6,computer graphics technology,Physical sciences,NA,1,6,,2,9,,2,4,,NA,2
+1,6,1,2,6,physics,Physical sciences,1,3,6,,2,4,,2,1,,4,2
+1,6,1,2,6,food science and nutrition,Life sciences,1,5,9,medical - family physician,5,2,,5,1,,4,2
+1,6,1,1,6,food science,Life sciences,NA,3,7,,3,3,,4,3,,NA,1
+1,5,1,1,6,health science ,Life sciences,NA,2,3,,6,4,,4,4,,NA,2
+1,5,3,1,6,technology,Physical sciences,NA,1,2,,5,8,,4,4,,NA,2
+1,2,2,1,6,zoology,Life sciences,NA,1,7,,2,8,,2,1,,4,2
+1,6,2,2,6,technology,Physical sciences,1,4,2,,5,2,,5,4,,NA,1
+1,8,1,2,6,technology,Physical sciences,1,7,7,,5,8,,4,6,,NA,2
+1,5,1,1,6,information security,Physical sciences,NA,1,6,,3,2,,5,2,,NA,2
+1,7,1,2,6,aviation technology ,Engineering,1,5,9,Pastor,5,2,,4,1,,4,1
+1,6,1,2,6,statistics,Mathematics,2,4,7,,5,3,,5,3,,NA,1
+1,7,1,2,6,statistics,Mathematics,1,5,7,,5,8,,5,4,,NA,2
+1,7,1,2,6,statistics,Mathematics,2,4,9,Author,4,8,,1,2,,NA,2
+1,6,1,2,6,statistics,Mathematics,1,3,7,,6,8,,5,6,,NA,1
+1,5,1,2,6,statistics,Mathematics,2,1,7,,6,8,,6,1,,4,2
+1,6,2,2,6,statistics,Mathematics,1,3,4,,1,3,,5,1,,4,1
+1,5,2,2,6,materials science and engineering,Engineering,2,3,2,,4,2,,4,4,,NA,1
+1,5,2,2,6,statistics,Mathematics,2,2,2,,6,8,,4,6,,NA,1
+1,8,3,2,6,statistics,Mathematics,1,7,7,,2,8,,3,6,,NA,2
+1,7,2,1,6,information assurance and security,Physical sciences,NA,2,7,,3,8,,5,2,,NA,1
+1,5,2,1,6,operations research,Mathematics,NA,1,2,,4,3,,4,4,,NA,2
+1,5,1,2,6,statistics,Mathematics,2,4,2,,5,9,,5,1,,4,2
+1,5,1,1,6,quantitative ecology and resource management,Life sciences,NA,2,10,,5,2,,5,4,,NA,1
+1,6,1,2,6,biostatistics,Life sciences,2,3,6,,1,3,,2,2,,NA,1
+1,8,2,2,6,biostatistics,Life sciences,2,3,2,,5,10,not employed,4,1,,4,1
+1,5,1,2,6,biostatistics,Life sciences,2,2,2,,4,4,,4,6,,NA,2
+1,5,2,2,6,statistics,Mathematics,2,1,2,,6,4,,5,6,,NA,1
+1,6,1,2,6,biostatistics,Life sciences,2,2,2,,4,8,,5,4,,NA,1
+1,6,1,1,6,statistics,Mathematics,NA,2,2,,5,2,,5,4,,NA,1
+1,6,2,2,6,biostatistics,Life sciences,2,2,7,,4,2,,4,4,,NA,2
+1,2,1,2,6,statistics,Mathematics,1,7,10,,6,8,,4,5,,NA,2
+1,6,2,2,6,biostatistics,Life sciences,1,4,2,,5,8,,3,4,,NA,1
+1,5,1,2,6,statistics,Mathematics,2,2,2,,5,2,,4,6,,NA,2
+1,6,2,1,6,statistics,Mathematics,NA,2,5,,4,5,,4,6,,NA,1
+1,6,1,2,6,statistics,Mathematics,1,4,10,,5,4,,4,4,,NA,2
+1,7,2,2,6,epidemiology,Life sciences,2,2,7,,3,5,,3,1,,4,1
+1,7,1,2,6,statistics,Mathematics,1,6,7,,3,8,,4,4,,NA,2
+1,5,2,1,6,cybersecurity,Physical sciences,NA,2,2,,4,2,,4,4,,NA,2
+1,5,1,1,6,financial engineering,Engineering,NA,2,8,,2,9,,2,4,,NA,2
+1,3,1,2,6,cybersecurity,Physical sciences,2,1,6,,2,9,,2,7,Active Duty Military Service,NA,1
+1,7,2,2,6,chemistry,Physical sciences,2,2,2,,4,8,,4,4,,NA,1
+1,5,4,2,6,statistics,Mathematics,2,1,2,,5,8,,5,4,,NA,2
+1,5,2,2,6,food science ,Life sciences,2,1,5,,4,9,,2,6,,NA,2
+1,3,1,1,6,natural science,Life sciences,NA,2,7,,2,2,,5,6,,NA,2
+1,5,2,1,6,aviation,Engineering,NA,1,9,Self Employeed Business Owner,2,10,Self Employeed Business Owner,4,4,,NA,2
+1,6,3,2,6,ecology,Life sciences,2,2,6,,2,4,,2,1,,4,1
+1,5,2,2,6,animal sciences (biological science),Life sciences,2,1,6,,3,2,,4,4,,NA,1
+1,6,2,1,6,sustainability,Life sciences,NA,2,2,,4,2,,5,6,,NA,2
+1,7,1,2,6,sustainability,Life sciences,1,3,7,,6,8,,6,1,,4,2
+1,5,2,2,6,quantitative psychology (applied statistics),Mathematics,2,3,6,,2,4,,3,1,,4,2
+1,2,2,2,6,sustainability,Life sciences,2,4,7,,2,8,,2,1,,4,1
+1,6,2,2,6,quantitative methods,Mathematics,2,5,9,Consultant - Energy,5,10,Wealth management,5,1,,4,1
+1,6,1,1,6,sustainability,Life sciences,NA,2,10,,4,3,,4,7,I am considering all of 1-5,NA,1
+1,5,1,1,6,food science,Life sciences,NA,1,10,,5,3,,5,4,,NA,1
+1,6,2,2,6,fisheries and wildlife management,Life sciences,2,3,10,,6,10,State Agency Department of Environmental Protection ,5,1,,4,1
+1,6,1,2,6,sustainability,Life sciences,1,4,2,,5,3,,6,6,,NA,1
+1,5,2,2,6,"quantitative psychology, so life sciences and mathematics",Mathematics,2,3,10,,6,3,,5,1,,4,1
+1,5,2,1,6,statistics,Mathematics,NA,1,7,,7,9,,7,4,,NA,1
+1,3,2,2,6,neuroscience,Life sciences,1,5,9,carpenter,3,10,Social Worker,4,1,,4,1
+1,7,1,2,6,biochemistry,Life sciences,1,3,6,,4,7,,3,4,,NA,1
+1,5,2,1,6,comptuer and information technology,Physical sciences,NA,2,4,,4,8,,4,2,,NA,2
+1,6,2,1,6,wildlife management,Life sciences,NA,3,2,,5,4,,4,2,,NA,1
+1,7,2,2,6,statistics,Mathematics,1,4,10,,5,3,,5,4,,NA,2
+1,5,1,1,6,crop science,Life sciences,NA,1,6,,2,9,,2,4,,NA,1
+1,6,2,2,6,statistics,Mathematics,2,5,2,,5,2,,5,4,,NA,2
+1,8,2,2,6,earth sciences,Life sciences,1,6,7,,5,8,,4,1,,4,2
+1,8,2,2,6,statistics,Mathematics,2,4,8,,2,9,,2,1,,4,1
+1,6,2,2,6,statistics,Mathematics,2,1,7,,3,8,,3,1,,4,2
+1,8,2,2,6,biostatistics,Life sciences,2,7,6,,4,7,,5,3,,NA,2
+1,6,2,2,6,meat science,Life sciences,2,1,6,,4,2,,5,4,,NA,2
+1,5,1,2,6,biostatistics,Life sciences,2,1,2,,5,8,,5,1,,4,1
+1,5,2,1,6,plant pathology,Life sciences,NA,2,5,,2,4,,2,1,,4,1
+1,5,1,2,6,statistics,Mathematics,2,3,2,,6,8,,4,4,,NA,2
+1,5,2,1,6,agriculture (crop and soil sciences),Life sciences,NA,1,7,,2,2,,3,6,,NA,2
+1,5,2,1,6,nutritional sciences,Life sciences,NA,1,8,,2,10,State Employed Engineer,3,1,,4,1
+1,7,2,2,6,nutrition,Life sciences,2,2,2,,4,3,,5,1,,4,2
+1,5,1,2,6,biomathematics,Physical sciences,2,1,2,,5,8,,3,1,,4,1
+1,7,2,2,6,environmental health science,Life sciences,1,4,2,,3,5,,3,6,,NA,2
+1,2,2,1,6,environmental sciences,Life sciences,NA,2,9,deceased,1,8,,2,7,maintain current position,NA,1
+1,7,2,2,6,environmental medicine,Life sciences,1,3,3,,2,5,,3,6,,NA,1
+1,7,2,2,6,neuroscience,Life sciences,2,1,4,,4,3,,5,1,,4,2
+1,5,2,1,6,marine affairs,Life sciences,NA,2,2,,5,8,,4,3,,NA,2
+1,6,2,1,6,biostatistics,Life sciences,NA,2,10,,5,3,,5,4,,NA,2
+1,7,2,2,6,biostatistics,Life sciences,2,5,2,,5,3,,5,1,,4,2
+1,5,2,1,6,natural science,Life sciences,NA,1,2,,3,5,,2,6,,NA,2
+1,5,2,1,6,geosciences,Physical sciences,NA,2,8,,3,9,,2,6,,NA,2
+1,5,2,2,6,statistics,Mathematics,1,3,2,,4,10,Health Coach,4,4,,NA,2
+1,7,1,2,6,statistics,Mathematics,2,1,10,,6,2,,4,1,,4,1
+1,6,2,2,6,statistics,Mathematics,2,5,9,18-wheeler driver,2,8,,4,1,,4,1
+1,5,2,1,6,entomology ,Life sciences,NA,2,2,,5,5,,5,4,,NA,1
+1,7,1,2,6,statistics,Mathematics,1,3,2,,5,2,,5,5,,NA,1
+1,5,1,2,6,pharmaceutics,Life sciences,2,4,3,,2,5,,2,4,,NA,2
+1,5,2,2,6,agricultural sciences,Life sciences,2,4,7,,4,8,,3,1,,4,1
+1,7,2,2,6,human nutrition,Life sciences,1,4,9,"Father is deceased, but worked in an automotive factory; in response to the next question, my father did not finish elementary school, so I responded NA",7,10,"homemaker; in response to next question, my mother did not complete elementary school",7,1,,4,1
+1,5,2,2,6,fisheries and wildlife,Life sciences,2,1,5,,4,3,,5,1,,4,2
+1,6,2,1,6,sustainability,Life sciences,NA,3,9,pastor,4,1,,4,6,,NA,1
+1,2,2,2,6,entomology,Life sciences,1,6,2,,4,8,,1,1,,4,1
+1,5,2,2,6,computational biology,Life sciences,2,1,2,,5,8,,5,2,,NA,2
+1,5,2,2,6,computational biology,Life sciences,2,1,3,,4,7,,4,1,,4,2
+1,5,2,1,6,statistics,Mathematics,NA,1,2,,4,2,,4,4,,NA,2
+1,2,2,1,6,information technology,Physical sciences,NA,2,7,,2,8,,2,3,,NA,1
+1,2,2,1,6,sustainability,Life sciences,NA,4,7,,5,9,,1,6,,NA,1
+1,5,2,2,6,fisheries and wildlife,Life sciences,2,1,10,,6,7,,5,2,,NA,1
+1,5,2,2,6,animal science,Life sciences,2,2,2,,5,8,,5,1,,4,1
+1,5,1,2,6,biochemistry,Life sciences,2,2,9,medical products sales,4,9,,4,1,,4,2
+1,6,1,2,6,earth sciences,Life sciences,2,1,10,,4,4,,4,1,,4,2
+1,6,2,2,6,public health,Life sciences,1,6,2,,5,3,,6,4,,NA,1
+1,7,1,2,6,md phd. phd in biochemistry,Life sciences,1,4,9,"My father is homeless and insane. literally. before he went insane, he was a gardener ",3,10,"she was a writer, now she is an alcoholic",3,1,,4,1
+1,6,1,2,6,geological sciences,Physical sciences,2,2,7,,7,9,,7,1,,4,1
+1,5,1,1,6,earth science,Life sciences,NA,2,10,,6,4,,5,4,,NA,2
+1,5,1,2,6,bioengineering,Engineering,1,2,2,,5,4,,4,4,,NA,2
+1,5,1,1,6,statistics,Mathematics,NA,1,4,,4,8,,2,6,,NA,2
+1,6,1,1,6,environmental ,Life sciences,NA,2,2,,5,8,,4,2,,NA,2
+1,3,2,1,6,crop sciences,Life sciences,NA,4,5,,3,8,,3,4,,NA,2
+1,3,2,1,6,environmental,Life sciences,NA,1,7,,2,5,,3,1,,4,2
+1,7,1,2,6,neuroscience,Life sciences,1,5,7,,5,3,,5,1,,4,1
+1,7,2,2,6,geophysics,Physical sciences,2,1,6,,2,9,,2,6,,NA,2
+1,5,1,1,6,biostatistics,Life sciences,NA,2,2,,6,8,,6,4,,NA,1
+1,5,2,2,6,neuroscience,Life sciences,1,4,9,State employee- Department of Housing and Urban development,4,2,,5,6,,NA,1
+1,6,2,2,6,chemistry,Physical sciences,1,4,6,,1,4,,1,1,,4,1
+1,6,2,2,6,biomathematics,Physical sciences,2,2,2,,5,2,,5,4,,NA,1
+1,7,2,2,6,sustainability,Life sciences,1,6,9,janitor,1,4,,3,6,,NA,1
+1,7,2,2,6,natural science -forestry,Life sciences,2,3,6,,3,3,,5,6,,NA,1
+1,6,1,2,6,computational biology,Life sciences,1,5,2,,5,4,,4,6,,NA,2
+1,5,1,1,6,geology,Physical sciences,NA,2,10,,5,10,Healthcare,5,4,,NA,2
+1,5,2,1,6,"org. behavior, systems and analytics",Life sciences,NA,2,9,deceased,2,5,,3,5,,NA,1
+1,6,1,1,6,sustainability,Life sciences,NA,2,4,,4,8,,4,4,,NA,2
+1,2,1,2,6,entomology,Life sciences,2,3,7,,2,10,Deceased,2,1,,4,1
+1,6,1,1,6,environmental health,Life sciences,NA,2,10,,5,9,,5,4,,NA,2
+1,8,1,1,6,"agricultural, food, and resource economics",Life sciences,NA,1,7,,4,8,,5,4,,NA,1
+1,5,2,2,6,earth science,Life sciences,2,2,10,,5,3,,6,1,,4,2
+1,5,2,1,6,ecology/conservation science,Life sciences,NA,2,7,,2,4,,3,1,,4,1
+1,6,1,2,6,statistics,Mathematics,1,5,10,,6,8,,6,6,,NA,2
+1,5,2,1,6,sustainability,Life sciences,NA,2,2,,4,3,,4,3,,NA,2
+1,5,2,1,6,environmental science,Life sciences,NA,2,10,,5,3,,5,7,Teach at a community college,NA,2
+1,2,2,1,6,environmental,Life sciences,NA,2,9,Deceased,4,10,Deceased,2,7,Work full time now State Water Survey,NA,2
+1,6,2,1,6,food science,Life sciences,NA,2,2,,6,2,,5,4,,NA,2
+1,7,2,2,6,nutrition science,Life sciences,1,5,8,,5,3,,6,6,,NA,1
+1,5,2,1,6,crop sciences,Life sciences,NA,1,5,,4,3,,4,4,,NA,2
+1,3,1,1,6,statistics,Mathematics,NA,2,8,,1,4,,3,4,,NA,1
+1,6,1,2,6,medicine and microbial molecular genetics - dual degree physician scientists program,Life sciences,2,3,10,,6,1,,6,1,,4,1
+1,6,2,2,6,behavioral neuroscience,Life sciences,1,6,2,,2,8,,2,6,,NA,1
+1,5,2,2,6,animal science,Life sciences,2,2,2,,4,5,,4,6,,NA,2
+1,6,2,2,6,health sciences/psychology,Life sciences,1,6,6,,2,5,,3,1,,4,1
+1,5,2,1,6,environmental science,Life sciences,NA,2,7,,3,5,,3,2,,NA,1
+1,5,2,2,6,earth and environmental sciences,Life sciences,2,1,7,,5,8,,5,1,,4,2
+1,5,2,2,6,earth science,Life sciences,2,2,2,,6,1,,5,6,,NA,1
+1,7,1,2,6,statistics,Mathematics,1,4,10,,6,3,,6,1,,4,2
+1,8,2,1,6,conservation biology,Life sciences,NA,1,2,,5,9,,5,3,,NA,2
+1,6,2,2,6,statistics,Mathematics,1,3,2,,4,2,,5,6,,NA,1
+1,5,2,1,6,ecology,Life sciences,NA,2,9,software programming,3,3,,6,6,,NA,1
+1,5,2,2,1,,Life sciences,2,1,10,,5,8,,4,1,,4,2
+1,6,1,2,1,,Life sciences,1,3,7,,5,4,,4,5,,NA,2
+1,6,1,2,1,,Life sciences,1,3,4,,2,5,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,1,2,8,,3,5,,4,6,,NA,1
+1,5,1,2,4,,Mathematics,2,1,2,,4,2,,4,1,,4,1
+1,5,1,2,4,,Mathematics,2,1,2,,6,8,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,2,1,2,,5,2,,5,4,,NA,2
+1,6,2,2,4,,Mathematics,1,5,2,,5,2,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,6,,4,2,,4,1,,4,2
+1,5,2,2,2,,Physical sciences,2,1,2,,5,5,,5,6,,NA,2
+1,5,2,2,1,,Life sciences,2,2,2,,4,3,,4,1,,4,1
+1,6,1,2,1,,Life sciences,1,4,2,,4,3,,4,6,,NA,1
+1,5,2,1,2,,Physical sciences,NA,2,2,,5,3,,3,1,,4,1
+1,6,2,2,2,,Physical sciences,1,5,2,,4,9,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,6,7,,5,8,,2,1,,4,2
+1,5,1,1,2,,Physical sciences,NA,1,2,,5,5,,5,3,,NA,2
+1,7,2,2,2,,Physical sciences,1,7,9,deceased,4,2,,4,1,,4,2
+1,7,2,2,1,,Life sciences,1,5,7,,5,2,,6,6,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,5,2,,5,4,,NA,2
+1,5,1,2,1,,Life sciences,1,3,7,,3,8,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,3,,6,3,,5,1,,4,1
+1,5,1,2,4,,Mathematics,2,1,2,,5,9,,5,3,,NA,1
+1,6,1,2,2,,Physical sciences,2,5,2,,5,5,,2,1,,4,2
+1,5,1,2,2,,Physical sciences,2,3,2,,5,8,,5,1,,4,2
+1,7,2,2,2,,Physical sciences,2,3,10,,5,5,,4,1,,4,1
+1,5,2,1,1,,Life sciences,NA,1,2,,6,10,Deceased,4,3,,NA,2
+1,5,1,2,4,,Mathematics,2,1,2,,5,2,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,4,2,,5,4,,4,6,,NA,2
+1,7,2,2,1,,Life sciences,1,4,9,deceased,4,3,,5,6,,NA,1
+1,5,2,2,1,,Life sciences,2,2,7,,6,8,,6,1,,206,2
+1,5,1,2,2,,Physical sciences,2,2,2,,6,8,,5,1,,4,1
+1,5,1,1,3,,Engineering,NA,2,2,,5,3,,4,4,,NA,1
+1,5,1,2,3,,Engineering,2,1,2,,6,8,,5,6,,NA,1
+1,6,2,2,1,,Life sciences,1,4,9,Musician,3,8,,3,6,,NA,1
+1,6,2,2,1,,Life sciences,1,4,2,,4,5,,4,4,,NA,1
+1,5,1,2,1,,Life sciences,2,2,6,,4,9,,3,4,,NA,2
+1,6,2,2,1,,Life sciences,2,2,10,,6,3,,6,6,,NA,1
+1,6,2,2,2,,Physical sciences,1,6,7,,5,4,,5,1,,4,2
+1,5,1,2,1,,Life sciences,2,1,2,,4,2,,5,1,,4,1
+1,5,1,2,3,,Engineering,2,2,2,,6,2,,5,4,,NA,1
+1,5,2,2,1,,Life sciences,1,1,2,,4,2,,5,6,,NA,2
+1,5,1,2,3,,Engineering,2,3,7,,5,8,,3,1,,4,1
+1,6,1,1,3,,Engineering,NA,1,8,,4,8,,3,4,,NA,2
+1,6,2,2,2,,Physical sciences,2,5,2,,5,2,,5,1,,4,1
+1,5,2,1,3,,Engineering,NA,2,2,,5,2,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,1,4,2,,5,3,,4,1,,4,1
+1,6,1,2,3,,Engineering,1,5,2,,5,3,,5,4,,NA,2
+1,6,2,2,1,,Life sciences,1,7,10,,5,3,,5,1,,4,1
+1,6,1,2,3,,Engineering,2,5,2,,4,3,,3,4,,NA,2
+1,6,1,1,3,,Engineering,NA,2,3,,4,5,,1,4,,NA,2
+1,5,2,1,3,,Engineering,NA,1,2,,6,2,,5,6,,NA,1
+1,5,2,2,1,,Life sciences,2,1,3,,4,2,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,2,4,4,,4,5,,2,4,,NA,1
+1,6,1,2,1,,Life sciences,1,3,2,,5,2,,5,1,,4,2
+1,5,1,2,1,,Life sciences,1,4,2,,5,4,,5,6,,NA,1
+1,5,2,2,4,,Mathematics,2,2,9,civil servant/technical writer,5,10,clergy,5,6,,NA,1
+1,6,1,2,3,,Engineering,1,4,2,,5,4,,4,6,,NA,2
+1,6,2,2,2,,Physical sciences,2,4,4,,4,2,,4,2,,NA,1
+1,7,2,2,2,,Physical sciences,1,6,7,,6,3,,5,1,,4,1
+1,7,1,2,3,,Engineering,2,1,8,,3,8,,3,1,,4,2
+1,5,2,1,3,,Engineering,NA,1,7,,5,2,,4,6,,NA,1
+1,6,2,2,1,,Life sciences,1,4,6,,2,10,housewife,1,2,,NA,1
+1,6,1,1,1,,Life sciences,NA,2,7,,1,5,,1,1,,4,2
+1,7,1,1,2,,Physical sciences,NA,2,9,Advertising,4,3,,4,2,,NA,1
+1,2,1,2,4,,Mathematics,2,5,2,,5,8,,5,6,,NA,1
+1,5,2,2,3,,Engineering,2,3,1,,5,2,,5,6,,NA,1
+1,6,2,2,4,,Mathematics,1,5,9,land surveyor,4,4,,4,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,2,,6,8,,4,6,,NA,2
+1,6,2,2,3,,Engineering,2,2,2,,2,2,,2,1,,4,2
+1,6,2,2,2,,Physical sciences,1,5,9,both physician and university professor,5,10,physician,5,1,,4,1
+1,6,1,2,4,,Mathematics,2,1,2,,5,8,,3,1,,4,2
+1,6,2,2,1,,Life sciences,2,3,6,,3,2,,5,6,,NA,2
+1,6,1,2,2,,Physical sciences,2,5,10,,5,5,,5,6,,NA,1
+1,6,1,2,1,,Life sciences,1,5,2,,5,8,,5,1,,4,1
+1,6,2,2,2,,Physical sciences,1,6,2,,5,3,,5,1,,189,2
+1,6,2,2,1,,Life sciences,1,7,6,,2,7,,4,1,,4,2
+1,5,1,2,3,,Engineering,2,2,6,,3,9,,3,6,,NA,2
+1,6,3,2,2,,Physical sciences,1,3,10,,5,3,,6,1,,4,1
+1,7,1,1,5,,Computer science,NA,1,2,,5,3,,5,4,,NA,1
+1,3,1,1,1,,Life sciences,NA,1,2,,4,1,,2,6,,NA,2
+1,7,2,2,2,,Physical sciences,2,1,2,,5,2,,5,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,6,,4,5,,4,1,,4,2
+1,6,1,1,1,,Life sciences,NA,2,2,,5,8,,4,4,,NA,1
+1,2,2,1,5,,Computer science,NA,2,2,,5,2,,4,5,,NA,1
+1,6,1,2,2,,Physical sciences,2,4,4,,3,3,,3,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,9,"Air Force Doctor, Colonel",5,3,,4,2,,NA,2
+1,6,1,2,1,,Life sciences,1,5,10,,4,3,,4,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,10,,6,8,,5,1,,4,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,2,,5,6,,NA,2
+1,5,1,2,4,,Mathematics,2,2,2,,5,10,Author ,5,1,,4,1
+1,6,1,2,3,,Engineering,2,3,2,,6,3,,6,4,,NA,1
+1,6,2,2,1,,Life sciences,1,6,3,,2,4,,3,1,,4,2
+1,5,3,2,2,,Physical sciences,2,3,7,,4,8,,4,1,,98,2
+1,5,2,2,2,,Physical sciences,2,2,2,,5,3,,6,1,,4,2
+1,8,2,1,5,,Computer science,NA,3,10,,5,2,,4,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,3,2,,5,2,,5,6,,NA,2
+1,5,2,2,1,,Life sciences,2,1,9,Self employed,3,10,Self employed,4,2,,NA,2
+1,5,1,2,2,,Physical sciences,2,3,2,,3,4,,5,6,,NA,1
+1,5,2,1,5,,Computer science,NA,2,2,,6,2,,5,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,3,2,,5,8,,5,6,,NA,1
+1,6,2,2,1,,Life sciences,1,6,7,,6,3,,6,1,,4,1
+1,5,2,2,2,,Physical sciences,2,2,2,,3,8,,5,1,,4,2
+1,6,2,2,1,,Life sciences,1,4,9,Small business owner - multimedia,4,10,Marketing and training in tech field,4,4,,NA,1
+1,5,1,1,4,,Mathematics,NA,1,2,,5,2,,5,4,,NA,1
+1,5,2,2,1,,Life sciences,2,2,2,,4,4,,4,2,,NA,1
+1,6,1,2,1,,Life sciences,2,2,7,,6,3,,5,6,,NA,1
+1,5,1,2,1,,Life sciences,2,2,2,,5,3,,4,1,,4,2
+1,7,1,2,1,,Life sciences,1,6,6,,3,3,,5,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,4,,5,3,,4,4,,NA,1
+1,5,1,2,1,,Life sciences,2,1,8,,7,2,,5,4,,NA,1
+1,5,2,2,1,,Life sciences,1,2,2,,4,8,,5,1,,4,2
+1,6,1,2,1,,Life sciences,2,2,9,Minister,6,9,,5,1,,4,2
+1,6,1,2,1,,Life sciences,2,2,7,,4,3,,5,6,,NA,2
+1,5,1,2,4,,Mathematics,1,5,4,,5,8,,2,1,,4,2
+1,6,2,2,1,,Life sciences,2,1,2,,5,8,,5,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,4,,3,3,,5,1,,4,2
+1,6,1,2,2,,Physical sciences,1,5,6,,3,10,non profit,3,6,,NA,1
+1,6,2,2,3,,Engineering,2,4,6,,3,8,,1,4,,NA,1
+1,5,1,2,2,,Physical sciences,2,3,5,,4,3,,4,6,,NA,1
+1,5,1,2,1,,Life sciences,2,1,6,,4,2,,5,1,,4,1
+1,6,2,2,2,,Physical sciences,2,1,2,,4,2,,4,1,,4,2
+1,5,2,1,2,,Physical sciences,NA,1,9,Retired Military now employed as civilian,4,9,,4,6,,NA,1
+1,6,1,2,1,,Life sciences,1,5,7,,5,8,,3,6,,NA,1
+1,5,1,2,1,,Life sciences,1,2,10,,6,3,,4,1,,4,2
+1,8,2,2,5,,Computer science,1,7,10,,6,3,,6,1,,4,2
+1,5,1,2,2,,Physical sciences,2,3,9,Deceased. Previously a technical worker. ,3,3,,4,1,,4,2
+1,6,1,2,5,,Computer science,1,5,2,,5,3,,4,1,,4,1
+1,5,2,2,5,,Computer science,2,1,2,,5,2,,5,6,,NA,2
+1,5,1,1,5,,Computer science,NA,1,2,,6,8,,5,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,2,,5,8,,5,6,,NA,1
+1,6,2,2,1,,Life sciences,2,2,2,,6,8,,5,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,9,IT,4,3,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,1,4,10,,6,10,Small business owner,6,4,,NA,1
+1,7,2,2,2,,Physical sciences,1,5,4,,4,3,,4,7,Attend law school,NA,1
+1,6,2,2,2,,Physical sciences,1,5,2,,5,3,,4,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,3,2,,5,5,,5,1,,4,1
+1,6,2,2,1,,Life sciences,2,2,10,,6,3,,6,1,,77,1
+1,5,2,1,1,,Life sciences,NA,4,9,Deceased,6,3,,6,6,,NA,1
+1,5,1,1,3,,Engineering,NA,1,10,,5,5,,5,4,,NA,2
+1,5,2,2,1,,Life sciences,2,3,9,Hotel Owner,3,10,Home Maker,2,4,,NA,2
+1,5,2,2,1,,Life sciences,1,4,7,,5,2,,5,1,,4,2
+1,7,2,2,3,,Engineering,1,3,2,,5,8,,2,3,,NA,1
+1,5,1,1,5,,Computer science,NA,1,6,,2,3,,5,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,10,,6,8,,4,6,,NA,2
+1,6,2,2,1,,Life sciences,1,4,10,,6,3,,6,1,,4,2
+1,5,2,2,2,,Physical sciences,2,2,2,,5,2,,5,6,,NA,1
+1,5,1,2,1,,Life sciences,2,1,2,,4,9,,4,1,,71,2
+1,6,1,2,1,,Life sciences,1,5,9,Tech support ,4,4,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,2,1,10,,6,9,,4,6,,NA,2
+1,6,3,1,2,,Physical sciences,NA,4,3,,5,5,,4,6,,NA,1
+1,5,1,2,5,,Computer science,2,4,10,,6,8,,4,1,,4,2
+1,5,2,1,5,,Computer science,NA,1,2,,5,2,,5,1,,4,2
+1,5,2,2,1,,Life sciences,2,2,2,,4,2,,5,4,,NA,1
+1,6,1,2,2,,Physical sciences,1,7,2,,5,8,,5,4,,NA,1
+1,6,1,2,1,,Life sciences,2,3,7,,6,5,,4,1,,4,2
+1,5,2,2,1,,Life sciences,1,3,2,,5,5,,5,1,,4,1
+1,6,2,2,1,,Life sciences,2,1,2,,4,9,,2,4,,NA,2
+1,6,2,2,1,,Life sciences,2,2,10,,6,8,,5,1,,4,2
+1,6,1,2,5,,Computer science,2,3,2,,5,8,,2,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,6,6,,2,4,,2,4,,NA,2
+1,5,2,1,3,,Engineering,NA,1,7,,5,8,,5,4,,NA,2
+1,6,2,2,2,,Physical sciences,1,6,10,,3,9,,2,2,,NA,1
+1,6,1,2,2,,Physical sciences,1,5,6,,4,8,,4,6,,NA,1
+1,6,2,2,1,,Life sciences,1,6,6,,2,4,,2,2,,NA,1
+1,5,1,1,5,,Computer science,NA,1,2,,2,8,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,1,5,2,,5,4,,5,6,,NA,2
+1,6,2,2,1,,Life sciences,1,4,10,,5,3,,4,1,,4,2
+1,5,2,2,1,,Life sciences,2,3,8,,4,3,,5,6,,NA,1
+1,6,2,2,2,,Physical sciences,1,5,6,,2,5,,2,1,,4,2
+1,5,1,2,2,,Physical sciences,2,2,2,,5,2,,5,2,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,7,,5,8,,3,1,,4,2
+1,5,2,2,2,,Physical sciences,1,4,7,,5,5,,4,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,10,,6,8,,6,1,,4,1
+1,5,1,2,2,,Physical sciences,1,4,2,,5,5,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,1,1,10,,6,8,,4,3,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,4,,1,2,,5,1,,4,2
+1,6,2,2,2,,Physical sciences,1,5,6,,2,5,,2,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,6,,3,4,,3,1,,4,2
+1,6,1,2,2,,Physical sciences,2,2,4,,3,5,,3,1,,4,1
+1,6,2,2,2,,Physical sciences,2,3,2,,5,3,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,1,4,7,,2,8,,3,1,,4,2
+1,6,1,2,2,,Physical sciences,1,4,9,Cook,3,9,,3,4,,NA,2
+1,5,1,2,1,,Life sciences,2,1,10,,6,5,,5,1,,4,1
+1,6,1,2,2,,Physical sciences,2,2,10,,6,9,,4,5,,NA,1
+1,5,1,2,2,,Physical sciences,2,2,10,,6,5,,4,4,,NA,1
+1,7,1,2,1,,Life sciences,1,5,6,,3,4,,3,4,,NA,1
+1,5,1,1,2,,Physical sciences,NA,2,2,,4,2,,4,4,,NA,2
+1,6,2,2,2,,Physical sciences,1,4,2,,5,10,homemaker,5,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,7,,4,3,,4,3,,NA,1
+1,7,2,2,1,,Life sciences,1,6,9,"Physicist in Defense, used to be a professor",6,4,,6,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,2,2,,6,3,,5,6,,NA,1
+1,5,1,2,5,,Computer science,2,1,10,,6,3,,6,5,,NA,2
+1,6,1,2,2,,Physical sciences,2,5,2,,5,5,,5,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,2,,6,8,,5,4,,NA,2
+1,7,2,2,1,,Life sciences,1,4,6,,5,8,,4,4,,NA,2
+1,6,4,2,1,,Life sciences,1,6,2,,5,9,,4,5,,NA,1
+1,6,1,1,4,,Mathematics,NA,2,10,,6,5,,5,4,,NA,1
+1,5,1,2,2,,Physical sciences,2,1,9,Jeweler (Maybe technical?),1,10,Not working--note: father and mother have only up to a 3rd grade Cambodian education. They are refugees.,1,6,,NA,1
+1,5,1,2,3,,Engineering,2,1,2,,5,8,,5,6,,NA,1
+1,5,1,2,2,,Physical sciences,2,3,4,,4,5,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,2,1,8,,2,9,,2,1,,4,2
+1,5,2,2,2,,Physical sciences,1,3,2,,5,8,,5,6,,NA,1
+1,5,1,1,2,,Physical sciences,NA,3,7,,4,8,,4,2,,NA,2
+1,6,3,2,2,,Physical sciences,1,5,3,,4,3,,6,6,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,6,,4,4,,2,1,,4,1
+1,6,2,1,3,,Engineering,NA,1,2,,5,8,,5,7,I am currently employed full time and will continue working at my current company,NA,1
+1,6,2,2,2,,Physical sciences,1,6,2,,4,5,,4,4,,NA,1
+1,6,2,2,3,,Engineering,2,4,4,,2,3,,3,4,,NA,1
+1,5,1,2,3,,Engineering,2,1,3,,5,10,Nurse,5,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,3,7,,5,2,,4,7,Education/Outreach,NA,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,3,,4,1,,4,1
+1,6,2,2,3,,Engineering,1,5,6,,2,5,,2,1,,39,1
+1,5,2,2,3,,Engineering,2,1,3,,4,10,Elementary school cafeteria worker,2,6,,NA,2
+1,5,2,2,3,,Engineering,2,1,2,,5,2,,5,3,,NA,2
+1,6,2,2,3,,Engineering,1,6,7,,3,5,,3,1,,4,1
+1,6,2,2,2,,Physical sciences,2,5,10,,4,3,,5,6,,NA,1
+1,6,2,2,2,,Physical sciences,1,3,6,,2,8,,2,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,7,,5,8,,5,1,,4,2
+1,6,2,2,2,,Physical sciences,2,5,4,,3,5,,3,4,,NA,1
+1,6,2,2,2,,Physical sciences,2,3,4,,5,5,,6,6,,NA,1
+1,6,1,2,2,,Physical sciences,1,6,2,,6,2,,6,4,,NA,1
+1,5,2,2,2,,Physical sciences,1,4,4,,3,8,,5,7,Education and Public Outreach,NA,1
+1,5,2,2,2,,Physical sciences,2,2,2,,5,2,,5,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,10,,6,3,,6,1,,77,2
+1,6,2,2,2,,Physical sciences,1,4,9,Deceased,4,2,,4,1,,4,2
+1,6,2,2,2,,Physical sciences,1,5,2,,5,2,,4,2,,NA,1
+1,6,2,2,1,,Life sciences,1,5,2,,2,8,,3,4,,NA,1
+1,6,2,2,1,,Life sciences,2,3,9,Physician,5,10,Physician,5,6,,NA,1
+1,2,1,2,1,,Life sciences,2,3,8,,4,5,,3,1,,206,1
+1,5,2,2,1,,Life sciences,2,2,9,entrepreneur ,4,3,,6,1,,4,2
+1,6,1,2,2,,Physical sciences,1,6,9,deceased,3,4,,4,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,4,2,,3,8,,4,6,,NA,1
+1,6,1,2,2,,Physical sciences,1,5,7,,5,8,,4,6,,NA,1
+1,5,1,2,2,,Physical sciences,2,1,8,,3,5,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,2,,5,2,,4,4,,NA,2
+1,5,1,2,1,,Life sciences,1,4,2,,5,4,,5,1,,4,1
+1,6,1,2,1,,Life sciences,1,4,7,,4,8,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,2,3,9,Self Employed Owner of a family entertainment business,3,10,Self employed owner of a family entertainment business,2,6,,NA,1
+1,5,2,1,3,,Engineering,NA,1,2,,4,2,,4,4,,NA,1
+1,6,2,2,1,,Life sciences,1,4,7,,3,3,,5,2,,NA,1
+1,6,2,2,1,,Life sciences,2,1,3,,4,4,,4,1,,4,2
+1,6,1,2,3,,Engineering,1,5,2,,4,2,,4,2,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,5,5,,4,1,,4,2
+1,6,1,2,1,,Life sciences,1,6,2,,5,9,,3,4,,NA,2
+1,6,1,2,1,,Life sciences,1,5,2,,6,8,,4,1,,4,2
+1,5,2,1,1,,Life sciences,NA,2,2,,4,8,,2,4,,NA,2
+1,5,1,2,1,,Life sciences,1,4,2,,4,2,,4,6,,NA,1
+1,6,1,2,2,,Physical sciences,1,6,7,,4,5,,2,4,,NA,2
+1,6,1,2,3,,Engineering,2,1,5,,2,4,,2,6,,NA,2
+1,8,2,1,1,,Life sciences,NA,1,9,Deceased,3,5,,3,6,,NA,1
+1,6,2,2,1,,Life sciences,2,2,2,,5,2,,4,6,,NA,1
+1,5,1,2,1,,Life sciences,2,2,5,,2,5,,2,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,3,6,,3,3,,5,4,,NA,1
+1,6,2,2,3,,Engineering,1,6,9,Works for the city as senior air quality specialist and teaches community college ,6,10,works for the city as lab manager of waste water treatment plant and teaches community college,4,4,,NA,1
+1,6,2,2,1,,Life sciences,1,7,2,,4,10,Artist,3,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,4,,4,5,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,4,9,Government Administration,5,2,,5,4,,NA,2
+1,5,1,2,1,,Life sciences,2,2,2,,4,3,,5,1,,4,2
+1,6,2,2,1,,Life sciences,1,7,6,,3,4,,3,1,,4,1
+1,6,1,2,2,,Physical sciences,1,7,2,,5,2,,5,1,,4,2
+1,6,1,2,1,,Life sciences,1,3,7,,5,2,,5,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,2,,5,3,,4,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,6,,3,4,,2,1,,4,1
+1,5,2,2,5,,Computer science,2,2,10,,6,10,Health writer,5,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,7,,3,4,,2,1,,4,2
+1,5,1,2,3,,Engineering,2,3,4,,3,5,,3,4,,NA,2
+1,7,2,2,1,,Life sciences,1,7,9,deceased,3,10,deceased,4,1,,4,2
+1,6,1,2,1,,Life sciences,2,4,10,,6,5,,5,6,,NA,2
+1,5,2,2,2,,Physical sciences,2,2,6,,2,8,,3,1,,4,2
+1,7,1,2,1,,Life sciences,1,4,9,Videographer for an aerospace company,4,2,,4,1,,4,2
+1,6,2,2,1,,Life sciences,2,1,9,Deceased,5,10,Fraud Investigator,5,1,,4,1
+1,5,2,2,3,,Engineering,2,3,9,Private Investigator,3,10,Federal probation officer/mental health therapist,5,1,,4,1
+1,5,2,1,1,,Life sciences,NA,1,10,,6,4,,5,2,,NA,1
+1,6,1,2,1,,Life sciences,2,3,2,,5,8,,4,1,,4,1
+1,6,2,2,3,,Engineering,2,2,6,,3,4,,4,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,7,,4,3,,5,1,,4,2
+1,5,1,2,5,,Computer science,2,2,2,,6,8,,4,4,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,4,3,,5,1,,141,2
+1,5,2,1,3,,Engineering,NA,1,4,,3,5,,1,6,,NA,2
+1,5,2,1,3,,Engineering,NA,2,7,,3,8,,3,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,3,,4,8,,4,6,,NA,1
+1,5,1,2,1,,Life sciences,2,3,2,,2,4,,2,1,,4,1
+1,6,2,2,1,,Life sciences,1,6,2,,5,2,,5,1,,4,2
+1,6,1,2,2,,Physical sciences,1,5,2,,4,4,,4,4,,NA,2
+1,6,2,2,2,,Physical sciences,1,6,7,,4,10,Medicine,4,4,,NA,1
+1,5,1,2,2,,Physical sciences,2,2,2,,4,10,stay at home mom,4,6,,NA,2
+1,5,2,2,2,,Physical sciences,2,1,9,Military,4,2,,3,1,,4,1
+1,7,1,2,1,,Life sciences,2,2,7,,2,4,,4,4,,NA,1
+1,6,2,2,1,,Life sciences,1,3,6,,4,8,,2,1,,4,1
+1,5,2,2,1,,Life sciences,1,3,3,,3,3,,4,3,,NA,1
+1,5,1,2,5,,Computer science,2,1,9,Waterproofing,1,10,Food prep,1,1,,4,1
+1,5,2,1,3,,Engineering,NA,1,2,,5,3,,5,7,Medical School,NA,2
+1,6,1,2,1,,Life sciences,1,5,2,,5,4,,3,3,,NA,2
+1,5,1,2,5,,Computer science,2,1,4,,4,3,,5,4,,NA,1
+1,5,1,2,3,,Engineering,2,1,6,,3,3,,5,1,,4,1
+1,6,2,2,2,,Physical sciences,1,4,10,,6,4,,4,1,,4,1
+1,7,1,2,1,,Life sciences,1,7,6,,2,8,,2,6,,NA,1
+1,7,2,2,1,,Life sciences,1,6,2,,4,9,,4,7,work for government or non-profit or science museum,NA,1
+1,7,1,1,5,,Computer science,NA,2,2,,4,3,,5,4,,NA,2
+1,6,2,2,1,,Life sciences,1,5,10,,6,8,,5,6,,NA,1
+1,6,1,2,1,,Life sciences,2,2,10,,4,8,,5,1,,4,2
+1,6,1,2,3,,Engineering,2,4,2,,4,10,Arts/Dance,4,6,,NA,1
+1,6,2,2,5,,Computer science,1,4,3,,2,5,,2,1,,4,1
+1,7,2,2,1,,Life sciences,1,7,5,,2,4,,2,2,,NA,1
+1,5,2,2,1,,Life sciences,2,2,7,,3,8,,5,6,,NA,1
+1,5,2,2,1,,Life sciences,2,1,10,,6,10,Small business owner in textiles,3,1,,4,1
+1,7,2,2,1,,Life sciences,1,4,4,,4,3,,6,6,,NA,1
+1,6,2,2,1,,Life sciences,1,4,3,,2,4,,5,1,,4,1
+1,6,2,1,1,,Life sciences,NA,3,7,,NA,8,,4,2,,NA,1
+1,6,2,1,3,,Engineering,NA,1,2,,4,2,,5,5,,NA,2
+1,2,2,2,1,,Life sciences,1,5,7,,2,8,,5,1,,4,1
+1,6,2,2,3,,Engineering,2,3,9,Medical sales,4,4,,3,4,,NA,2
+1,6,1,2,1,,Life sciences,1,5,2,,4,2,,4,1,,4,1
+1,5,2,2,1,,Life sciences,1,3,10,,6,3,,4,2,,NA,2
+1,6,2,2,1,,Life sciences,1,4,2,,4,8,,2,1,,4,1
+1,5,2,2,1,,Life sciences,2,3,7,,4,8,,4,3,,NA,1
+1,5,2,1,3,,Engineering,NA,1,9,Financial (brokerage firm),2,9,,3,4,,NA,1
+1,7,1,2,3,,Engineering,1,3,7,,4,8,,5,7,"My plan is to pursue several of these options, but the highest ranked priorities are industrial work and government labs. This question should allow more than one response, and possibly ranked responses.",NA,1
+1,5,2,1,1,,Life sciences,NA,1,6,,2,3,,5,1,,4,1
+1,5,2,2,3,,Engineering,1,4,2,,5,3,,4,4,,NA,2
+1,5,1,2,1,,Life sciences,2,2,2,,5,2,,5,6,,NA,2
+1,5,1,2,1,,Life sciences,2,1,2,,5,5,,4,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,2,,5,2,,5,1,,4,1
+1,6,1,2,1,,Life sciences,2,1,9,Primary employment: government official (highway commissioner) and Secondary employment: agriculture (organic farming),2,10,Clerical secretary,3,2,,NA,1
+1,5,2,1,4,,Mathematics,NA,2,2,,5,2,,4,4,,NA,2
+1,5,2,2,1,,Life sciences,1,3,7,,6,3,,5,4,,NA,1
+1,6,2,2,1,,Life sciences,1,4,2,,4,2,,4,1,,4,1
+1,5,1,1,3,,Engineering,NA,1,2,,5,8,,5,2,,NA,1
+1,6,1,1,4,,Mathematics,NA,1,9,Deceased,1,2,,4,1,,4,2
+1,7,2,1,3,,Engineering,NA,3,2,,6,8,,3,4,,NA,1
+1,6,1,2,4,,Mathematics,1,4,9,Arts: Documentary Filmmaker,5,10,Fine Arts and Development Work,5,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,10,,6,3,,6,6,,NA,1
+1,5,1,2,1,,Life sciences,2,1,9,Deceased,4,7,,1,1,,4,1
+1,5,2,2,3,,Engineering,1,4,2,,5,4,,4,1,,4,2
+1,5,1,2,4,,Mathematics,2,3,2,,5,3,,4,4,,NA,2
+1,6,2,2,4,,Mathematics,2,3,5,,2,5,,3,6,,NA,2
+1,7,1,2,3,,Engineering,1,5,7,,3,8,,2,4,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,10,,6,10,Law professor: educational and professional,5,7,Continue education for a PhD,NA,1
+1,6,1,1,3,,Engineering,NA,1,2,,5,3,,6,4,,NA,1
+1,5,1,1,3,,Engineering,NA,1,2,,6,8,,4,4,,NA,2
+1,6,1,1,4,,Mathematics,NA,1,6,,2,8,,4,4,,NA,1
+1,6,2,2,4,,Mathematics,1,7,2,,5,4,,4,1,,4,2
+1,5,1,2,3,,Engineering,2,2,2,,4,2,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,2,3,2,,4,3,,4,2,,NA,2
+1,7,1,2,4,,Mathematics,2,4,2,,5,2,,5,1,,4,2
+1,5,1,2,3,,Engineering,2,3,10,,6,4,,5,4,,NA,2
+1,2,1,1,3,,Engineering,NA,1,9,deceased,1,8,,2,5,,NA,1
+1,6,2,2,3,,Engineering,2,1,6,,2,4,,3,2,,NA,1
+1,6,2,2,3,,Engineering,1,5,6,,3,5,,5,4,,NA,1
+1,6,1,2,3,,Engineering,2,5,9,My father isn't in my life,7,4,,3,5,,NA,1
+1,6,1,1,3,,Engineering,NA,1,8,,1,8,,4,4,,NA,1
+1,5,2,2,1,,Life sciences,1,5,2,,5,4,,4,4,,NA,2
+1,5,1,2,5,,Computer science,2,3,2,,5,2,,6,3,,NA,2
+1,5,1,2,3,,Engineering,2,3,2,,4,2,,5,5,,NA,1
+1,5,2,1,3,,Engineering,NA,1,2,,5,3,,5,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,4,7,,2,5,,3,7,"museum work, in addition to teaching",NA,1
+1,6,2,2,5,,Computer science,2,4,10,,6,2,,5,1,,4,1
+1,5,1,1,3,,Engineering,NA,1,4,,2,4,,3,4,,NA,1
+1,5,1,1,5,,Computer science,NA,1,4,,3,3,,4,6,,NA,2
+1,5,2,1,3,,Engineering,NA,1,8,,1,3,,3,4,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,5,5,,3,6,,NA,2
+1,6,2,2,2,,Physical sciences,1,4,7,,5,8,,4,4,,NA,1
+1,6,1,2,1,,Life sciences,1,4,4,,4,8,,4,1,,4,2
+1,6,1,2,3,,Engineering,1,5,6,,3,2,,4,4,,NA,1
+1,6,1,1,3,,Engineering,NA,1,7,,4,8,,4,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,7,,4,2,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,3,,2,4,,3,1,,4,1
+1,5,2,2,1,,Life sciences,2,2,7,,5,2,,5,1,,4,2
+1,7,1,2,1,,Life sciences,1,7,7,,5,8,,5,7,teach community college or high school,NA,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,5,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,4,2,,5,2,,5,1,,4,1
+1,6,1,2,1,,Life sciences,1,4,2,,4,9,,5,7,R&D but also teach,NA,1
+1,5,1,2,5,,Computer science,1,1,10,,6,5,,5,4,,NA,2
+1,6,2,2,1,,Life sciences,2,2,10,,6,2,,6,6,,NA,1
+1,6,1,2,2,,Physical sciences,1,6,6,,2,4,,1,4,,NA,2
+1,6,1,2,4,,Mathematics,1,5,3,,4,4,,5,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,2,,1,4,,3,1,,4,2
+1,5,1,2,2,,Physical sciences,2,2,2,,4,2,,4,1,,4,2
+1,7,1,2,2,,Physical sciences,1,7,2,,5,8,,4,4,,NA,1
+1,6,1,2,1,,Life sciences,1,5,10,,6,4,,5,1,,4,2
+1,6,1,2,2,,Physical sciences,1,7,2,,6,2,,6,4,,NA,1
+1,5,2,2,4,,Mathematics,2,2,2,,5,3,,5,6,,NA,1
+1,5,2,2,1,,Life sciences,2,1,2,,5,10,Graphic Artist ,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,5,9,procurement for EQT gas,5,2,,4,5,,NA,1
+1,5,1,2,1,,Life sciences,2,2,6,,3,4,,3,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,2,,5,3,,5,1,,4,1
+1,7,1,2,5,,Computer science,1,5,10,,6,3,,5,2,,NA,2
+1,7,1,2,4,,Mathematics,1,6,6,,2,4,,2,4,,NA,2
+1,6,2,2,4,,Mathematics,2,4,3,,4,4,,4,4,,NA,1
+1,6,1,2,1,,Life sciences,1,4,2,,4,4,,3,1,,4,2
+1,6,2,2,2,,Physical sciences,1,3,3,,2,9,,2,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,4,9,deceased,4,8,,5,6,,NA,1
+1,5,1,2,1,,Life sciences,1,4,10,,6,2,,6,4,,NA,1
+1,6,2,2,1,,Life sciences,1,3,4,,3,4,,2,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,9,businessmen,4,8,,4,1,,189,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,8,,4,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,1,2,,5,8,,4,4,,NA,1
+1,6,1,2,1,,Life sciences,1,4,2,,4,8,,3,3,,NA,1
+1,6,2,2,1,,Life sciences,2,3,2,,4,2,,3,1,,4,1
+1,3,2,1,2,,Physical sciences,NA,3,7,,5,8,,6,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,6,,3,3,,5,4,,NA,1
+1,6,2,2,4,,Mathematics,1,5,9,land surveyor,4,4,,4,1,,4,1
+1,6,1,2,1,,Life sciences,1,3,2,,5,9,,4,1,,4,1
+1,8,1,1,2,,Physical sciences,NA,2,6,,5,3,,5,4,,NA,2
+1,5,1,2,1,,Life sciences,2,2,9,Minister,4,4,,3,5,,NA,2
+1,5,2,2,5,,Computer science,1,4,6,,3,3,,3,4,,NA,1
+1,6,1,2,4,,Mathematics,1,5,2,,4,8,,3,6,,NA,1
+1,6,2,2,1,,Life sciences,1,5,6,,3,7,,3,1,,4,1
+1,6,1,2,4,,Mathematics,1,4,9,Oil executive,5,3,,5,1,,4,1
+1,5,1,2,1,,Life sciences,1,3,2,,4,2,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,6,10,,6,8,,4,1,,4,1
+1,8,1,2,3,,Engineering,1,4,10,,5,3,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,6,7,,4,2,,4,4,,NA,1
+1,5,2,2,1,,Life sciences,1,3,2,,5,2,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,9,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,2,,5,6,,NA,2
+1,5,2,2,2,,Physical sciences,1,3,4,,4,8,,4,1,,71,1
+1,5,2,1,4,,Mathematics,NA,1,10,,6,3,,5,4,,NA,2
+1,7,2,2,1,,Life sciences,1,5,9,Pastor/missionary,4,4,,4,1,,4,1
+1,6,2,1,1,,Life sciences,NA,2,3,,5,1,,4,4,,NA,2
+1,6,2,2,2,,Physical sciences,2,1,9,Deceased,2,4,,1,1,,4,1
+1,5,2,2,2,,Physical sciences,2,1,5,,2,3,,5,1,,4,1
+1,6,2,2,2,,Physical sciences,1,5,4,,1,5,,2,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,2,,5,4,,2,6,,NA,2
+1,6,1,2,5,,Computer science,1,3,10,,5,2,,4,1,,4,1
+1,7,2,2,1,,Life sciences,1,5,7,,4,4,,4,1,,4,1
+1,7,2,2,2,,Physical sciences,1,7,7,,5,3,,4,6,,NA,1
+1,6,2,2,1,,Life sciences,1,6,10,,6,3,,6,1,,4,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,8,,6,6,,NA,1
+1,6,2,2,1,,Life sciences,1,6,2,,5,3,,5,1,,189,2
+1,5,2,2,1,,Life sciences,2,1,6,,4,2,,5,4,,NA,1
+1,6,2,2,1,,Life sciences,2,2,2,,5,8,,3,1,,4,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,3,,5,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,9,Marketing consultant,5,7,,2,1,,4,2
+1,5,2,2,1,,Life sciences,2,2,3,,4,3,,5,1,,189,1
+1,7,1,1,2,,Physical sciences,NA,2,9,Advertising,4,3,,4,2,,NA,1
+1,5,1,2,2,,Physical sciences,2,1,2,,5,5,,4,1,,4,2
+1,6,2,2,4,,Mathematics,2,6,6,,3,9,,2,1,,4,1
+1,5,2,2,4,,Mathematics,2,1,2,,5,2,,4,6,,NA,2
+1,5,2,1,3,,Engineering,NA,1,1,,4,2,,5,4,,NA,1
+1,7,2,1,2,,Physical sciences,NA,2,6,,4,8,,4,4,,NA,1
+1,5,1,2,4,,Mathematics,2,2,2,,5,10,Author,5,1,,4,1
+1,6,1,2,1,,Life sciences,1,4,10,,5,8,,5,1,,4,1
+1,7,2,1,5,,Computer science,NA,4,7,,2,10,Government employee - Office of Personnel Management,4,7,I am already employed by a company,NA,1
+1,7,1,2,2,,Physical sciences,2,2,6,,2,5,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,4,2,,6,8,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,4,8,,5,2,,5,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,2,,6,3,,5,1,,77,1
+1,5,1,2,4,,Mathematics,2,1,7,,5,4,,3,6,,NA,1
+1,3,1,2,1,,Life sciences,1,5,2,,4,2,,2,1,,52,1
+1,7,2,2,1,,Life sciences,2,2,4,,1,8,,3,1,,4,2
+1,6,2,2,1,,Life sciences,2,3,4,,3,3,,4,6,,NA,1
+1,6,1,2,1,,Life sciences,1,5,2,,5,8,,3,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,7,,3,5,,4,7,attend law school,NA,2
+1,7,1,1,3,,Engineering,NA,2,7,,5,8,,5,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,3,7,,3,8,,5,6,,NA,2
+1,5,1,1,3,,Engineering,NA,2,10,,5,2,,3,4,,NA,1
+1,7,1,2,2,,Physical sciences,1,7,7,,4,8,,5,4,,NA,2
+1,8,2,2,1,,Life sciences,1,6,6,,2,4,,4,1,,4,2
+1,6,1,2,1,,Life sciences,1,4,9,Computer Programming,4,9,,2,4,,NA,2
+1,3,2,2,1,,Life sciences,1,7,2,,5,2,,5,5,,NA,2
+1,7,1,2,1,,Life sciences,1,3,3,,2,5,,3,1,,4,1
+1,5,2,2,1,,Life sciences,2,2,10,,4,4,,4,3,,NA,1
+1,5,1,1,3,,Engineering,NA,1,6,,4,5,,4,4,,NA,1
+1,7,2,2,1,,Life sciences,1,4,5,,2,5,,5,1,,4,1
+1,5,2,1,3,,Engineering,NA,1,6,,7,5,,7,4,,NA,1
+1,5,1,1,3,,Engineering,NA,1,10,,6,3,,6,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,4,,5,4,,NA,2
+1,6,1,1,4,,Mathematics,NA,5,10,,6,8,,5,4,,NA,1
+1,5,1,2,4,,Mathematics,2,2,7,,5,9,,4,1,,4,1
+1,6,2,2,4,,Mathematics,1,5,10,,6,5,,4,6,,NA,2
+1,6,2,1,1,,Life sciences,NA,1,7,,6,2,,4,7,Science Journalism,NA,1
+1,6,2,2,1,,Life sciences,1,3,2,,4,3,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,1,4,2,,6,2,,6,4,,NA,2
+1,2,1,2,5,,Computer science,2,2,7,,1,9,,3,1,,4,2
+1,6,2,1,1,,Life sciences,NA,2,7,,2,8,,4,2,,NA,1
+1,7,1,1,5,,Computer science,NA,2,2,,4,9,,2,4,,NA,1
+1,2,1,1,5,,Computer science,NA,1,7,,2,8,,1,6,,NA,1
+1,5,1,1,4,,Mathematics,NA,1,5,,7,6,,7,2,,NA,1
+1,5,2,1,3,,Engineering,NA,1,2,,4,10,Restaurant Owner,4,4,,NA,2
+1,6,1,2,3,,Engineering,2,1,7,,5,8,,5,4,,NA,2
+1,6,4,2,3,,Engineering,2,3,9,Zonal Manager in a pharmaceutical company,3,10,House wife,5,4,,NA,1
+1,2,1,1,1,,Life sciences,NA,1,3,,2,5,,1,4,,NA,2
+1,2,1,1,5,,Computer science,NA,2,7,,3,9,,3,4,,NA,2
+1,6,1,1,3,,Engineering,NA,1,2,,4,8,,3,4,,NA,2
+1,6,2,1,3,,Engineering,NA,2,7,,5,8,,5,4,,NA,2
+1,5,1,1,2,,Physical sciences,NA,2,2,,6,2,,4,1,,4,2
+1,5,2,2,4,,Mathematics,2,1,6,,3,3,,5,1,,4,1
+1,6,2,2,4,,Mathematics,1,1,6,,3,5,,5,6,,NA,2
+1,5,1,2,4,,Mathematics,1,1,2,,5,2,,5,1,,4,1
+1,5,1,1,3,,Engineering,NA,3,3,,2,5,,2,5,,NA,1
+1,6,1,1,3,,Engineering,NA,1,8,,7,9,,7,4,,NA,2
+1,5,2,2,4,,Mathematics,1,3,2,,4,3,,5,4,,NA,2
+1,5,1,2,4,,Mathematics,2,3,7,,6,8,,4,4,,NA,1
+1,6,2,2,4,,Mathematics,1,5,2,,4,3,,5,1,,4,2
+1,5,2,2,4,,Mathematics,2,2,2,,5,3,,6,6,,NA,2
+1,2,1,1,5,,Computer science,NA,2,7,,3,8,,2,6,,NA,2
+1,5,1,2,4,,Mathematics,2,2,6,,3,8,,2,2,,NA,1
+1,5,1,2,4,,Mathematics,2,3,2,,5,8,,4,1,,4,2
+1,5,1,1,3,,Engineering,NA,1,2,,4,8,,4,2,,NA,1
+1,5,1,2,4,,Mathematics,2,1,10,,6,8,,5,1,,4,1
+1,6,1,2,4,,Mathematics,1,5,3,,4,5,,4,1,,4,2
+1,7,1,1,5,,Computer science,NA,2,10,,5,8,,3,4,,NA,2
+1,5,1,2,4,,Mathematics,2,1,2,,2,8,,2,5,,NA,1
+1,6,1,2,5,,Computer science,1,5,9,programmer,3,8,,4,4,,NA,1
+1,6,2,1,3,,Engineering,NA,1,6,,2,10,Small Business Owner,3,7,Currently employed at engineering design firm,NA,2
+1,5,1,1,1,,Life sciences,NA,1,7,,3,7,,2,6,,NA,1
+1,6,1,1,3,,Engineering,NA,2,2,,5,9,,4,4,,NA,2
+1,5,1,1,3,,Engineering,NA,1,6,,3,7,,2,4,,NA,1
+1,5,1,2,4,,Mathematics,2,1,8,,7,4,,4,1,,4,2
+1,7,1,2,3,,Engineering,2,2,10,,4,4,,4,4,,NA,1
+1,5,1,2,3,,Engineering,2,2,2,,4,5,,5,1,,4,1
+1,7,1,1,5,,Computer science,NA,3,2,,5,3,,5,3,,NA,1
+1,8,1,2,5,,Computer science,1,4,2,,3,5,,3,5,,NA,1
+1,6,1,2,1,,Life sciences,2,3,9,Minister,3,5,,2,1,,4,1
+1,2,1,2,5,,Computer science,1,3,7,,2,8,,3,4,,NA,1
+1,6,1,2,3,,Engineering,1,5,9,poet,4,2,,4,1,,4,1
+1,5,2,1,1,,Life sciences,NA,2,6,,4,8,,4,4,,NA,2
+1,5,1,1,4,,Mathematics,NA,1,7,,3,10,"Government, but not an official",3,1,,162,1
+1,6,1,2,3,,Engineering,1,4,2,,5,3,,5,6,,NA,2
+1,5,2,2,4,,Mathematics,2,2,4,,4,10,Seamstress,3,1,,4,1
+1,6,1,2,1,,Life sciences,2,3,6,,4,8,,4,5,,NA,1
+1,5,1,2,2,,Physical sciences,2,2,10,,6,8,,4,6,,NA,2
+1,5,1,2,5,,Computer science,2,3,2,,4,3,,3,3,,NA,2
+1,6,2,2,2,,Physical sciences,2,2,4,,3,5,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,1,3,9,civil servant,5,3,,5,1,,4,1
+1,7,2,2,4,,Mathematics,2,3,7,,3,2,,3,4,,NA,2
+1,6,1,2,4,,Mathematics,2,4,2,,4,5,,4,4,,NA,1
+1,5,2,2,3,,Engineering,2,3,6,,2,3,,4,2,,NA,1
+1,5,1,2,1,,Life sciences,2,1,10,,4,3,,4,1,,4,2
+1,7,2,2,1,,Life sciences,1,4,2,,2,5,,4,1,,4,2
+1,6,2,2,3,,Engineering,2,4,9,doctor,5,2,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,2,1,7,,3,8,,3,1,,4,2
+1,6,1,2,3,,Engineering,1,5,2,,5,2,,6,1,,4,1
+1,6,2,2,1,,Life sciences,1,4,4,,4,5,,4,1,,4,1
+1,6,1,2,1,,Life sciences,1,5,7,,4,8,,2,2,,NA,2
+1,6,2,2,3,,Engineering,1,5,2,,4,2,,4,4,,NA,1
+1,5,2,1,1,,Life sciences,NA,2,6,,3,5,,3,1,,4,1
+1,5,1,2,3,,Engineering,1,2,2,,4,3,,5,4,,NA,2
+1,6,1,2,3,,Engineering,2,3,2,,3,8,,4,4,,NA,2
+1,6,1,2,2,,Physical sciences,2,2,10,,6,3,,5,1,,4,2
+1,6,1,2,3,,Engineering,1,5,2,,4,9,,3,4,,NA,2
+1,5,2,2,1,,Life sciences,1,2,2,,5,3,,4,6,,NA,1
+1,5,2,2,3,,Engineering,1,4,10,,6,8,,4,4,,NA,1
+1,6,2,2,1,,Life sciences,1,3,2,,5,8,,4,1,,4,1
+1,5,2,2,4,,Mathematics,2,2,6,,3,8,,2,4,,NA,1
+1,5,1,2,3,,Engineering,2,4,6,,4,8,,5,4,,NA,1
+1,6,2,2,3,,Engineering,2,2,2,,4,5,,4,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,1,2,,4,3,,4,4,,NA,1
+1,6,2,2,4,,Mathematics,1,3,2,,4,8,,4,6,,NA,2
+1,6,2,2,3,,Engineering,1,5,4,,5,2,,5,4,,NA,1
+1,7,2,2,1,,Life sciences,2,3,2,,5,4,,3,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,2,,4,8,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,6,,3,5,,2,6,,NA,1
+1,5,2,2,3,,Engineering,1,3,2,,2,4,,4,1,,4,2
+1,6,1,2,3,,Engineering,1,5,2,,5,2,,5,4,,NA,1
+1,5,1,2,1,,Life sciences,1,3,3,,4,4,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,4,,4,4,,3,6,,NA,2
+1,5,2,2,1,,Life sciences,2,3,9,agriculture/finance ,5,8,,4,4,,NA,1
+1,6,1,2,3,,Engineering,2,3,2,,5,2,,4,1,,4,1
+1,5,1,1,5,,Computer science,NA,1,6,,3,3,,5,2,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,6,4,,5,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,10,,6,9,,5,1,,4,2
+1,6,1,2,1,,Life sciences,1,7,7,,4,8,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,2,2,2,,4,5,,1,1,,4,2
+1,5,1,2,2,,Physical sciences,2,1,3,,5,10,Accountant,5,1,,4,2
+1,6,2,2,1,,Life sciences,2,3,8,,2,9,,2,1,,4,1
+1,5,1,2,3,,Engineering,1,4,2,,4,2,,4,4,,NA,1
+1,6,2,2,1,,Life sciences,1,6,6,,2,8,,2,4,,NA,1
+1,5,1,2,3,,Engineering,1,2,4,,4,5,,4,1,,4,2
+1,5,1,2,1,,Life sciences,2,1,4,,5,5,,4,1,,4,1
+1,5,1,2,3,,Engineering,1,4,2,,4,2,,4,4,,NA,2
+1,6,2,2,4,,Mathematics,1,5,10,,6,5,,4,6,,NA,2
+1,6,1,2,4,,Mathematics,2,6,7,,2,8,,2,1,,4,2
+1,6,1,2,3,,Engineering,1,5,2,,4,5,,5,6,,NA,2
+1,5,2,1,3,,Engineering,NA,2,2,,5,8,,5,6,,NA,1
+1,7,2,2,1,,Life sciences,2,3,2,,5,2,,5,1,,4,1
+1,6,2,2,2,,Physical sciences,2,2,6,,3,4,,4,1,,4,1
+1,5,1,2,4,,Mathematics,2,2,2,,4,2,,6,6,,NA,2
+1,5,1,2,4,,Mathematics,2,2,10,,5,2,,6,1,,4,2
+1,6,1,2,1,,Life sciences,2,5,6,,4,3,,5,6,,NA,2
+1,6,2,2,4,,Mathematics,2,4,7,,5,4,,4,1,,4,1
+1,6,2,2,3,,Engineering,2,2,2,,4,3,,5,1,,4,1
+1,5,1,2,3,,Engineering,1,4,2,,4,4,,3,4,,NA,2
+1,5,2,2,5,,Computer science,1,3,2,,5,3,,6,1,,4,1
+1,5,2,2,4,,Mathematics,2,1,10,,6,5,,4,1,,4,2
+1,5,2,1,1,,Life sciences,NA,1,2,,5,3,,5,2,,NA,2
+1,5,2,2,2,,Physical sciences,1,3,7,,2,9,,2,4,,NA,2
+1,6,2,2,1,,Life sciences,1,4,6,,3,4,,4,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,2,,4,5,,3,6,,NA,2
+1,7,1,2,3,,Engineering,1,4,10,,5,8,,5,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,4,,4,8,,3,6,,NA,2
+1,7,1,2,2,,Physical sciences,2,3,6,,2,4,,2,1,,4,1
+1,7,1,2,1,,Life sciences,1,3,6,,3,4,,4,6,,NA,2
+1,2,1,2,1,,Life sciences,1,3,2,,5,8,,4,1,,4,1
+1,5,2,2,3,,Engineering,1,3,10,,6,5,,6,4,,NA,1
+1,5,2,2,2,,Physical sciences,1,3,9,photographer,3,2,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,2,2,6,,4,5,,4,1,,4,2
+1,5,2,2,2,,Physical sciences,1,3,2,,3,3,,5,7,Physics faculty at a teaching focused university,NA,2
+1,6,2,2,1,,Life sciences,1,6,10,,4,8,,1,1,,4,1
+1,6,4,2,4,,Mathematics,1,6,6,,2,3,,4,1,,4,2
+1,5,1,2,3,,Engineering,1,2,2,,5,5,,3,4,,NA,1
+1,5,1,2,2,,Physical sciences,2,2,2,,5,9,,4,6,,NA,2
+1,5,2,2,1,,Life sciences,1,3,7,,7,4,,4,2,,NA,1
+1,6,1,2,2,,Physical sciences,1,5,2,,5,5,,3,1,,4,1
+1,6,2,2,1,,Life sciences,2,2,6,,2,10,House Wife,2,1,,4,1
+1,6,2,2,2,,Physical sciences,1,4,2,,5,8,,4,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,9,Truck Driver,2,4,,2,1,,4,2
+1,6,1,2,1,,Life sciences,1,3,2,,5,5,,3,1,,4,2
+1,6,2,2,1,,Life sciences,1,4,9,Music,3,10,Music,2,1,,4,1
+1,5,1,2,3,,Engineering,2,2,9,Physician,5,8,,5,4,,NA,2
+1,6,2,2,1,,Life sciences,1,3,9,Magic,3,10,Magic,3,1,,4,2
+1,5,2,2,1,,Life sciences,1,3,10,,4,3,,5,4,,NA,1
+1,5,2,1,1,,Life sciences,NA,2,2,,5,8,,4,1,,4,1
+1,5,2,2,3,,Engineering,2,2,6,,2,5,,2,4,,NA,1
+1,5,2,2,1,,Life sciences,1,4,6,,2,5,,2,4,,NA,2
+1,5,4,2,1,,Life sciences,2,2,3,,5,3,,5,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,5,,4,5,,2,1,,4,1
+1,6,2,2,2,,Physical sciences,1,6,6,,2,5,,3,3,,NA,2
+1,7,1,2,3,,Engineering,1,5,7,,3,8,,5,4,,NA,1
+1,5,1,2,4,,Mathematics,2,2,7,,5,2,,3,6,,NA,2
+1,6,2,2,1,,Life sciences,1,4,2,,5,4,,4,2,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,8,,6,4,,5,2,,NA,1
+1,5,1,2,2,,Physical sciences,2,1,2,,4,3,,4,6,,NA,1
+1,6,2,2,2,,Physical sciences,1,5,9,medicine (physician),6,8,,5,1,,4,2
+1,5,1,2,2,,Physical sciences,2,1,7,,3,8,,2,1,,4,1
+1,5,2,2,1,,Life sciences,2,2,3,,4,2,,5,7,patent agent,NA,2
+1,5,1,1,1,,Life sciences,NA,2,9,health care management,5,10,stay at home mom,1,1,,4,1
+1,7,1,2,2,,Physical sciences,2,1,8,,1,9,,1,1,,4,2
+1,5,1,2,2,,Physical sciences,2,1,2,,5,4,,4,1,,4,1
+1,6,2,2,3,,Engineering,1,4,9,"governmental worker, bureaucrat ",4,2,,4,3,,NA,2
+1,6,2,2,2,,Physical sciences,2,2,7,,3,5,,3,2,,NA,2
+1,5,1,2,1,,Life sciences,2,1,2,,5,8,,4,1,,4,1
+1,6,2,2,2,,Physical sciences,2,2,2,,5,2,,5,1,,4,1
+1,7,2,2,1,,Life sciences,2,2,2,,5,10,Homemaker,4,6,,NA,1
+1,6,2,2,1,,Life sciences,1,4,9,jailbird,1,8,,3,6,,NA,2
+1,6,2,2,4,,Mathematics,1,6,10,,5,8,,5,1,,4,2
+1,6,2,2,2,,Physical sciences,1,4,3,,7,5,,7,7,NASA,NA,1
+1,6,1,2,3,,Engineering,2,3,2,,5,4,,5,4,,NA,1
+1,6,2,2,4,,Mathematics,2,1,2,,4,2,,4,6,,NA,1
+1,5,1,2,2,,Physical sciences,2,1,2,,5,3,,4,6,,NA,2
+1,8,1,1,2,,Physical sciences,NA,3,7,,3,8,,3,1,,4,1
+1,5,1,2,3,,Engineering,2,2,2,,4,3,,4,6,,NA,2
+1,2,1,2,1,,Life sciences,2,2,7,,6,8,,3,1,,4,1
+1,5,1,1,3,,Engineering,NA,1,6,,3,4,,2,4,,NA,2
+1,6,2,1,3,,Engineering,NA,3,2,,3,4,,2,4,,NA,2
+1,5,1,2,2,,Physical sciences,1,3,10,,6,2,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,2,1,2,,5,3,,6,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,10,,5,2,,5,6,,NA,2
+1,5,2,1,2,,Physical sciences,NA,1,2,,5,8,,4,4,,NA,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,5,,4,1,,4,1
+1,6,1,2,1,,Life sciences,2,3,2,,4,4,,5,1,,4,1
+1,6,1,2,2,,Physical sciences,1,7,7,,4,10,Computer Programming,4,6,,NA,1
+1,2,1,2,3,,Engineering,1,3,2,,4,2,,3,7,Teach in addition to my full time job,NA,2
+1,6,1,2,3,,Engineering,1,4,2,,5,5,,4,6,,NA,2
+1,6,2,2,1,,Life sciences,2,2,2,,5,4,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,4,10,,6,3,,4,2,,NA,2
+1,6,2,2,2,,Physical sciences,1,6,2,,5,3,,5,1,,4,2
+1,6,1,2,2,,Physical sciences,2,2,7,,3,2,,4,4,,NA,1
+1,6,1,2,4,,Mathematics,2,4,7,,5,7,,4,1,,4,2
+1,5,1,2,1,,Life sciences,1,3,6,,4,2,,5,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,2,,4,8,,5,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,6,,1,8,,3,1,,4,1
+1,6,1,2,1,,Life sciences,1,5,2,,5,10,Entrepreneur,4,2,,NA,1
+1,6,4,2,5,,Computer science,2,5,3,,3,4,,3,6,,NA,2
+1,5,2,2,2,,Physical sciences,1,4,2,,5,3,,6,1,,4,2
+1,6,2,2,3,,Engineering,1,5,7,,5,8,,4,2,,NA,1
+1,5,2,2,1,,Life sciences,2,2,2,,2,2,,4,4,,NA,2
+1,7,1,2,2,,Physical sciences,2,2,2,,5,3,,5,1,,4,1
+1,8,1,2,1,,Life sciences,1,5,3,,3,4,,2,2,,NA,1
+1,7,2,2,2,,Physical sciences,1,7,10,,6,5,,4,6,,NA,1
+1,5,1,2,4,,Mathematics,2,2,8,,5,8,,3,6,,NA,2
+1,5,1,2,3,,Engineering,2,2,7,,4,8,,4,6,,NA,2
+1,5,2,2,1,,Life sciences,2,1,2,,5,4,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,6,,3,4,,2,1,,4,2
+1,6,2,2,2,,Physical sciences,2,2,6,,2,3,,3,6,,NA,2
+1,7,2,2,1,,Life sciences,1,4,2,,5,3,,6,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,6,,4,2,,4,1,,77,1
+1,6,2,2,2,,Physical sciences,1,5,4,,4,4,,5,1,,4,1
+1,8,1,2,3,,Engineering,1,6,9,Self Employed,1,10,Self Employed,4,5,,NA,1
+1,6,1,2,1,,Life sciences,2,2,4,,4,9,,3,4,,NA,1
+1,5,2,2,1,,Life sciences,2,2,6,,4,5,,5,4,,NA,1
+1,5,2,2,1,,Life sciences,2,1,6,,2,8,,2,1,,4,1
+1,6,2,2,2,,Physical sciences,1,3,2,,3,3,,4,4,,NA,2
+1,7,1,2,1,,Life sciences,1,7,6,,2,2,,2,1,,4,1
+1,5,1,2,3,,Engineering,1,2,10,,5,3,,4,4,,NA,1
+1,5,1,2,1,,Life sciences,2,3,5,,7,4,,7,1,,4,1
+1,5,1,1,3,,Engineering,NA,2,4,,2,10,Cosmotologist,3,4,,NA,2
+1,6,1,2,1,,Life sciences,2,2,7,,2,5,,2,5,,NA,1
+1,7,2,2,5,,Computer science,1,5,10,,5,3,,5,1,,4,1
+1,5,2,1,3,,Engineering,NA,2,10,,4,5,,4,2,,NA,1
+1,5,2,2,1,,Life sciences,2,1,9,Not living,1,10,Lab technician,3,4,,NA,1
+1,7,1,1,3,,Engineering,NA,1,2,,4,8,,4,4,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,5,8,,4,6,,NA,2
+1,6,2,2,2,,Physical sciences,1,4,3,,4,4,,3,1,,4,2
+1,6,2,2,2,,Physical sciences,1,5,2,,5,3,,4,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,6,,3,4,,3,1,,4,1
+1,5,1,1,1,,Life sciences,NA,2,4,,4,5,,3,1,,4,2
+1,6,1,1,4,,Mathematics,NA,1,2,,3,3,,3,4,,NA,1
+1,5,2,1,2,,Physical sciences,NA,2,2,,5,2,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,2,2,2,,5,10,Working on her MSW (she is a student currently),5,4,,NA,1
+1,5,1,1,2,,Physical sciences,NA,1,6,,4,4,,4,4,,NA,1
+1,5,1,1,3,,Engineering,NA,1,2,,4,9,,5,4,,NA,2
+1,6,1,2,3,,Engineering,1,3,2,,4,5,,3,5,,NA,2
+1,5,2,1,1,,Life sciences,NA,1,10,,5,5,,4,4,,NA,2
+1,6,1,2,1,,Life sciences,2,1,9,Veterinarian,5,5,,5,1,,4,1
+1,5,2,2,4,,Mathematics,2,2,2,,5,2,,4,1,,4,2
+1,5,1,2,3,,Engineering,1,4,2,,4,8,,4,4,,NA,2
+1,6,2,2,3,,Engineering,1,5,7,,5,9,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,8,,3,4,,NA,2
+1,5,1,1,1,,Life sciences,NA,1,2,,4,2,,5,1,,4,1
+1,5,2,1,3,,Engineering,NA,2,1,,6,9,,4,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,7,,3,5,,3,2,,NA,2
+1,6,1,2,1,,Life sciences,1,3,10,,6,10,Student,5,6,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,6,,2,5,,3,4,,NA,2
+1,6,2,2,2,,Physical sciences,2,2,7,,3,8,,5,1,,4,1
+1,6,1,2,4,,Mathematics,1,4,6,,3,9,,2,1,,4,2
+1,7,1,2,3,,Engineering,1,7,2,,5,2,,4,1,,4,2
+1,5,1,1,3,,Engineering,NA,1,6,,2,5,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,1,4,6,,5,4,,3,7,Practice clinical medicine (I'm in an MD-PhD program),NA,2
+1,7,1,2,2,,Physical sciences,1,6,2,,4,5,,4,1,,4,2
+1,6,2,2,3,,Engineering,1,5,2,,4,10,nursing,3,7,MD,NA,1
+1,5,1,2,4,,Mathematics,1,2,2,,5,3,,5,1,,4,2
+1,7,1,2,2,,Physical sciences,1,7,4,,2,5,,5,1,,15,1
+1,5,1,1,3,,Engineering,NA,2,10,,6,3,,6,4,,NA,2
+1,7,1,2,1,,Life sciences,1,7,6,,3,9,,4,5,,NA,1
+1,5,1,2,2,,Physical sciences,2,1,10,,5,2,,4,6,,NA,1
+1,6,2,2,4,,Mathematics,1,6,2,,5,9,,5,3,,NA,2
+1,5,1,2,3,,Engineering,1,3,2,,5,4,,4,4,,NA,2
+1,5,1,2,1,,Life sciences,1,4,2,,5,2,,5,1,,4,2
+1,5,1,2,4,,Mathematics,2,1,10,,6,8,,4,5,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,6,,4,2,,4,6,,NA,2
+1,6,1,2,3,,Engineering,1,2,2,,6,9,,4,5,,NA,2
+1,5,2,1,3,,Engineering,NA,2,2,,5,2,,5,4,,NA,1
+1,6,2,2,1,,Life sciences,1,3,10,,6,3,,2,4,,NA,1
+1,6,1,2,2,,Physical sciences,2,4,6,,2,5,,4,7,Seminary,NA,2
+1,7,2,2,1,,Life sciences,2,5,7,,4,5,,5,7,Anything with a paycheck,NA,1
+1,5,2,2,4,,Mathematics,2,1,2,,5,5,,6,1,,4,2
+1,6,2,2,1,,Life sciences,2,4,2,,5,3,,4,4,,NA,1
+1,7,2,2,1,,Life sciences,2,2,6,,1,8,,2,1,,4,1
+1,6,1,2,4,,Mathematics,2,1,10,,6,8,,2,1,,4,2
+1,6,1,2,3,,Engineering,1,5,7,,3,5,,3,6,,NA,1
+1,5,1,2,3,,Engineering,2,3,2,,5,7,,3,4,,NA,2
+1,5,2,1,4,,Mathematics,NA,1,10,,6,3,,5,4,,NA,2
+1,5,2,2,1,,Life sciences,1,4,9,Small Business Owner,4,10,Homemaker,4,4,,NA,2
+1,5,1,1,3,,Engineering,NA,1,2,,4,5,,4,5,,NA,1
+1,6,1,2,4,,Mathematics,1,6,2,,5,8,,5,1,,4,2
+1,5,1,1,3,,Engineering,NA,2,2,,4,4,,4,4,,NA,1
+1,5,1,1,4,,Mathematics,NA,2,3,,4,4,,5,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,2,,5,10,Medical Field- M.D.,5,1,,149,1
+1,7,2,2,1,,Life sciences,1,NA,6,,3,10,medical field,3,4,,NA,2
+1,7,1,2,2,,Physical sciences,1,6,9,Entrepreneur,4,10,Entrepreneur,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,5,3,,3,8,,3,4,,NA,2
+1,6,1,2,3,,Engineering,1,4,3,,4,8,,4,6,,NA,1
+1,5,1,2,4,,Mathematics,1,3,7,,5,2,,4,1,,4,1
+1,5,1,2,1,,Life sciences,2,1,2,,4,2,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,6,10,,6,3,,6,1,,4,2
+1,6,2,2,1,,Life sciences,2,2,4,,4,4,,4,4,,NA,1
+1,6,2,2,1,,Life sciences,1,5,7,,4,2,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,2,3,2,,5,4,,2,1,,4,1
+1,6,1,2,1,,Life sciences,2,3,7,,3,8,,4,4,,NA,1
+1,6,4,2,3,,Engineering,2,2,4,,3,5,,3,6,,NA,2
+1,5,2,1,1,,Life sciences,NA,1,2,,6,5,,4,6,,NA,1
+1,6,1,2,1,,Life sciences,2,2,4,,4,4,,4,1,,4,2
+1,6,1,2,2,,Physical sciences,1,4,1,,5,5,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,3,2,,5,5,,4,6,,NA,2
+1,8,2,1,5,,Computer science,NA,2,7,,4,5,,4,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,3,,2,4,,4,1,,4,2
+1,6,2,2,2,,Physical sciences,1,6,2,,2,4,,2,1,,4,2
+1,7,2,1,1,,Life sciences,NA,1,3,,5,4,,3,2,,NA,1
+1,6,2,2,4,,Mathematics,1,3,10,,6,3,,5,1,,4,2
+1,6,2,2,1,,Life sciences,2,3,9,CEO,3,3,,6,1,,4,2
+1,6,1,2,3,,Engineering,2,4,3,,3,7,,2,2,,NA,1
+1,5,1,2,3,,Engineering,1,2,1,,4,2,,5,7,Finish my M.D. degere,NA,1
+1,6,2,2,1,,Life sciences,2,2,8,,3,5,,3,1,,4,1
+1,5,2,2,2,,Physical sciences,2,2,7,,3,4,,3,1,,4,1
+1,6,1,2,4,,Mathematics,2,3,7,,3,8,,4,6,,NA,2
+1,5,1,1,1,,Life sciences,NA,1,10,,6,5,,5,1,,4,2
+1,5,1,2,1,,Life sciences,2,2,2,,5,8,,3,1,,4,1
+1,5,1,1,3,,Engineering,NA,2,6,,2,4,,3,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,6,2,,4,3,,5,1,,4,1
+1,5,1,2,3,,Engineering,2,3,3,,5,9,,5,4,,NA,2
+1,6,1,2,4,,Mathematics,1,5,7,,2,3,,4,1,,4,2
+1,5,2,1,3,,Engineering,NA,2,9,Nuclear Engineering,4,4,,4,3,,NA,2
+1,7,1,1,2,,Physical sciences,NA,1,7,,3,8,,5,6,,NA,2
+1,6,1,2,4,,Mathematics,2,5,2,,4,8,,4,4,,NA,2
+1,5,1,1,3,,Engineering,NA,2,2,,5,3,,6,1,,4,2
+1,5,1,2,4,,Mathematics,2,3,10,,4,3,,5,4,,NA,2
+1,7,2,1,1,,Life sciences,NA,1,3,,2,4,,2,3,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,6,,2,5,,2,1,,4,2
+1,6,1,2,1,,Life sciences,2,2,2,,4,9,,3,6,,NA,2
+1,7,1,2,4,,Mathematics,1,5,9,Property,3,8,,4,1,,4,1
+1,6,2,2,2,,Physical sciences,1,4,10,,4,2,,3,1,,4,1
+1,5,2,2,4,,Mathematics,1,4,6,,4,4,,5,1,,4,1
+1,7,2,2,1,,Life sciences,2,2,7,,5,5,,5,6,,NA,2
+1,5,2,2,4,,Mathematics,2,1,9,musician,3,10,musician,5,6,,NA,2
+1,5,1,1,3,,Engineering,NA,1,2,,6,3,,5,4,,NA,2
+1,6,4,1,2,,Physical sciences,NA,2,6,,2,4,,2,7,Several of the above,NA,1
+1,6,2,2,1,,Life sciences,1,7,7,,4,8,,4,4,,NA,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,5,,4,7,teach,NA,1
+1,5,1,2,2,,Physical sciences,2,1,6,,4,4,,3,6,,NA,2
+1,5,1,1,2,,Physical sciences,NA,1,6,,3,2,,4,6,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,2,,4,2,,5,6,,NA,2
+1,6,2,2,2,,Physical sciences,1,5,2,,4,3,,4,7,Another degree,NA,2
+1,5,2,1,3,,Engineering,NA,1,10,,6,2,,5,1,,4,1
+1,5,2,2,2,,Physical sciences,2,2,10,,6,8,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,4,7,,5,2,,5,5,,NA,2
+1,6,2,2,3,,Engineering,1,5,7,,4,6,,5,4,,NA,1
+1,8,2,2,2,,Physical sciences,2,5,2,,4,3,,6,6,,NA,1
+1,6,1,2,5,,Computer science,1,3,3,,5,8,,5,6,,NA,2
+1,5,2,2,3,,Engineering,2,1,2,,5,2,,4,1,,4,2
+1,6,1,2,4,,Mathematics,1,5,2,,3,3,,3,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,6,,2,2,,2,1,,4,1
+1,2,1,2,5,,Computer science,2,6,8,,3,9,,4,1,,4,2
+1,6,1,2,4,,Mathematics,2,5,9,Entertainment,3,10,Entertainment,5,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,2,2,,5,3,,5,6,,NA,2
+1,5,2,1,1,,Life sciences,NA,1,6,,1,3,,3,4,,NA,1
+1,5,2,1,2,,Physical sciences,NA,2,6,,3,4,,3,2,,NA,1
+1,5,1,2,4,,Mathematics,2,1,2,,3,4,,4,1,,4,1
+1,6,1,2,4,,Mathematics,2,4,10,,5,3,,6,4,,NA,1
+1,5,1,1,2,,Physical sciences,NA,1,6,,2,9,,1,4,,NA,2
+1,7,1,1,4,,Mathematics,NA,2,7,,4,9,,3,4,,NA,2
+1,5,1,2,4,,Mathematics,2,2,2,,6,2,,5,6,,NA,2
+1,6,2,2,2,,Physical sciences,2,3,2,,3,5,,1,6,,NA,2
+1,5,2,1,3,,Engineering,NA,1,4,,4,3,,4,1,,4,1
+1,5,2,1,1,,Life sciences,NA,3,9,Owns landscape business,3,3,,2,4,,NA,1
+1,6,2,2,4,,Mathematics,2,3,9,Medicine - pharmacy,4,10,Medicine - pharmacy,4,1,,4,1
+1,5,2,1,2,,Physical sciences,NA,1,6,,3,4,,3,2,,NA,2
+1,5,2,1,3,,Engineering,NA,2,9,commodity trader,4,10,cheerleading coach,4,4,,NA,2
+1,6,2,2,3,,Engineering,1,6,9,Business entrepreneur; joint owner of a machining and fabrication shop,3,4,,3,1,,4,1
+1,7,2,2,1,,Life sciences,2,2,9,Healthcare,5,10,Healthcare,4,1,,4,2
+1,3,1,1,2,,Physical sciences,NA,2,7,,3,8,,4,7,Continue working at current job,NA,1
+1,7,1,2,3,,Engineering,2,5,8,,4,5,,6,1,,4,2
+1,5,1,1,5,,Computer science,NA,2,2,,4,8,,4,2,,NA,2
+1,6,1,2,1,,Life sciences,2,2,6,,2,2,,3,1,,4,1
+1,5,1,1,5,,Computer science,NA,2,6,,4,5,,3,5,,NA,1
+1,7,2,2,3,,Engineering,2,5,5,,4,5,,3,6,,NA,1
+1,7,1,1,3,,Engineering,NA,1,9,Container Depot Manager,2,8,,2,4,,NA,1
+1,6,1,2,1,,Life sciences,2,6,3,,4,5,,4,1,,4,2
+1,5,1,1,3,,Engineering,NA,2,2,,5,2,,4,5,,NA,1
+1,6,1,2,1,,Life sciences,2,1,7,,6,8,,6,6,,NA,1
+1,6,2,2,3,,Engineering,1,6,2,,4,5,,3,1,,141,2
+1,6,2,2,3,,Engineering,1,7,7,,4,10,Real estate agent,5,2,,NA,1
+1,5,2,1,5,,Computer science,NA,1,2,,4,2,,4,4,,NA,2
+1,6,1,2,2,,Physical sciences,2,1,10,,6,3,,6,1,,77,1
+1,6,2,2,4,,Mathematics,1,5,7,,5,3,,4,1,,4,1
+1,5,2,1,3,,Engineering,NA,1,6,,3,8,,3,1,,4,1
+1,6,1,2,4,,Mathematics,1,5,6,,2,4,,3,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,6,,4,2,,4,4,,NA,1
+1,5,2,1,2,,Physical sciences,NA,2,2,,4,3,,4,2,,NA,2
+1,5,2,1,1,,Life sciences,NA,2,5,,2,4,,3,4,,NA,2
+1,5,1,2,3,,Engineering,2,2,2,,6,4,,4,4,,NA,2
+1,5,2,2,2,,Physical sciences,1,3,2,,3,3,,3,2,,NA,1
+1,5,2,2,4,,Mathematics,2,1,4,,2,5,,2,6,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,5,4,,4,5,,NA,2
+1,6,1,2,4,,Mathematics,2,2,2,,5,3,,5,1,,4,1
+1,5,1,2,2,,Physical sciences,1,4,9,Unemployed,4,3,,6,4,,NA,1
+1,6,1,2,3,,Engineering,1,5,7,,2,5,,2,4,,NA,1
+1,7,2,2,1,,Life sciences,1,6,6,,3,8,,2,1,,4,1
+1,7,1,2,4,,Mathematics,2,1,7,,3,4,,5,6,,NA,2
+1,6,1,2,4,,Mathematics,1,3,2,,4,2,,5,1,,4,1
+1,2,1,2,3,,Engineering,1,3,8,,2,8,,2,7,Continue working in my field,NA,1
+1,7,2,1,5,,Computer science,NA,1,5,,5,3,,4,6,,NA,2
+1,8,1,2,1,,Life sciences,1,5,6,,2,5,,3,1,,4,1
+1,6,1,2,4,,Mathematics,2,4,2,,4,4,,3,1,,4,1
+1,5,1,2,4,,Mathematics,2,3,9,Business executive,5,8,,5,6,,NA,1
+1,5,1,1,3,,Engineering,NA,2,8,,4,4,,3,4,,NA,2
+1,5,1,1,3,,Engineering,NA,1,7,,3,4,,5,4,,NA,2
+1,6,2,2,5,,Computer science,2,3,2,,6,10,Part-owner of a small garden growing/selling exotic plants,4,6,,NA,1
+1,6,2,2,2,,Physical sciences,2,3,10,,6,8,,6,1,,4,2
+1,6,2,2,1,,Life sciences,1,7,9,"My father was a coal miner, retired, and went back to school.  He now teaches waste water management to undergrad students.  So he qualifies for multiple fields above.",3,4,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,10,,6,8,,5,1,,4,1
+1,5,1,2,2,,Physical sciences,2,4,10,,6,8,,5,4,,NA,2
+1,5,1,2,1,,Life sciences,1,3,7,,3,5,,3,1,,4,1
+1,5,1,2,2,,Physical sciences,2,2,3,,5,3,,5,6,,NA,2
+1,6,1,2,2,,Physical sciences,2,3,9,Production Design,5,10,Casting Director,5,1,,4,2
+1,5,2,2,2,,Physical sciences,2,2,7,,4,8,,4,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,2,,5,5,,3,1,,4,1
+1,6,1,2,1,,Life sciences,2,3,4,,3,5,,2,1,,4,2
+1,6,1,2,2,,Physical sciences,1,7,7,,6,8,,2,4,,NA,1
+1,6,1,1,1,,Life sciences,NA,3,5,,2,5,,4,2,,NA,1
+1,5,2,1,1,,Life sciences,NA,2,6,,2,5,,3,1,,4,1
+1,6,1,2,1,,Life sciences,2,3,6,,2,10,nurse,3,4,,NA,1
+1,6,1,2,3,,Engineering,1,3,2,,4,8,,4,6,,NA,1
+1,6,2,2,2,,Physical sciences,2,4,6,,2,4,,3,4,,NA,1
+1,6,1,2,2,,Physical sciences,1,3,6,,5,10,Homemaker,3,1,,4,1
+1,5,2,2,1,,Life sciences,2,3,2,,6,8,,4,1,,4,1
+1,5,1,2,2,,Physical sciences,1,2,7,,3,2,,3,4,,NA,2
+1,5,2,2,1,,Life sciences,1,4,10,,5,8,,4,2,,NA,2
+1,6,1,2,2,,Physical sciences,1,4,10,,6,3,,5,4,,NA,2
+1,5,2,2,2,,Physical sciences,1,4,9,Military,5,10,Writing,4,4,,NA,1
+1,5,3,2,2,,Physical sciences,1,2,9,Baker,5,10,Baker,4,7,Lead environmental revolution,NA,1
+1,5,1,1,1,,Life sciences,NA,1,6,,2,5,,2,1,,4,1
+1,5,2,2,1,,Life sciences,1,4,9,Computer programmer,3,4,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,5,10,,6,8,,6,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,3,,5,1,,4,2
+1,6,2,2,1,,Life sciences,1,3,8,,3,4,,3,1,,4,2
+1,5,1,2,1,,Life sciences,2,2,7,,4,8,,5,6,,NA,2
+1,5,2,2,1,,Life sciences,1,4,2,,3,4,,2,4,,NA,2
+1,2,1,2,2,,Physical sciences,1,2,9,deceased,2,10,retired,1,6,,NA,2
+1,5,1,2,4,,Mathematics,2,2,10,,5,8,,6,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,3,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,2,1,4,,2,4,,2,4,,NA,2
+1,5,1,2,3,,Engineering,1,2,7,,1,8,,1,4,,NA,1
+1,6,2,2,1,,Life sciences,2,1,9,Disabled,2,4,,3,1,,92,1
+1,5,2,2,2,,Physical sciences,2,1,2,,2,5,,2,1,,77,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,9,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,4,3,,4,4,,NA,1
+1,7,2,2,1,,Life sciences,1,4,4,,4,3,,5,6,,NA,1
+1,6,1,1,2,,Physical sciences,NA,1,7,,5,7,,4,2,,NA,2
+1,6,2,2,1,,Life sciences,1,3,6,,2,9,,2,1,,4,2
+1,8,2,2,1,,Life sciences,1,7,10,,5,3,,5,7,home with children,NA,1
+1,6,1,2,3,,Engineering,1,4,2,,4,4,,3,4,,NA,2
+1,5,2,1,2,,Physical sciences,NA,2,2,,5,3,,5,1,,4,2
+1,5,1,1,3,,Engineering,NA,2,6,,3,5,,3,2,,NA,2
+1,5,2,2,2,,Physical sciences,1,3,2,,5,5,,4,4,,NA,1
+1,6,2,1,1,,Life sciences,NA,3,6,,2,5,,3,7,Current DVM degree,NA,1
+1,5,2,2,1,,Life sciences,2,2,10,,5,2,,5,4,,NA,2
+1,5,1,2,5,,Computer science,2,2,2,,5,2,,5,4,,NA,1
+1,6,1,2,1,,Life sciences,2,2,2,,5,5,,2,6,,NA,1
+1,7,2,2,1,,Life sciences,1,6,10,,5,3,,4,1,,4,2
+1,5,2,1,1,,Life sciences,NA,1,2,,5,4,,4,2,,NA,2
+1,5,2,1,2,,Physical sciences,NA,2,2,,5,4,,3,6,,NA,2
+1,6,2,1,1,,Life sciences,NA,3,2,,5,10,health care,5,2,,NA,1
+1,6,1,2,4,,Mathematics,2,3,10,,5,3,,5,6,,NA,2
+1,6,1,2,4,,Mathematics,2,2,8,,4,9,,3,6,,NA,1
+1,6,1,2,3,,Engineering,2,3,9,Computer Science,4,8,,4,6,,NA,2
+1,2,1,2,2,,Physical sciences,1,5,8,,6,8,,4,1,,4,2
+1,5,2,2,2,,Physical sciences,2,1,3,,4,3,,5,4,,NA,2
+1,5,2,1,2,,Physical sciences,NA,2,5,,3,3,,5,4,,NA,2
+1,6,2,2,1,,Life sciences,1,5,6,,3,4,,4,1,,4,1
+1,5,2,2,4,,Mathematics,2,1,9,pastor of church,4,10,church ministry,4,1,,4,2
+1,5,1,1,3,,Engineering,NA,2,7,,3,5,,3,4,,NA,2
+1,5,2,2,4,,Mathematics,1,4,10,,6,9,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,2,1,6,,4,3,,4,1,,4,2
+1,5,1,1,3,,Engineering,NA,2,6,,4,10,business analyst,5,1,,4,2
+1,6,1,2,2,,Physical sciences,1,5,6,,2,5,,2,1,,4,2
+1,5,1,2,1,,Life sciences,2,2,2,,3,9,,2,6,,NA,1
+1,5,2,1,1,,Life sciences,NA,2,2,,6,5,,5,2,,NA,1
+1,6,1,2,1,,Life sciences,2,2,7,,3,3,,4,4,,NA,2
+1,6,1,2,1,,Life sciences,1,7,7,,3,3,,5,1,,4,2
+1,7,1,2,1,,Life sciences,1,4,4,,1,5,,1,6,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,6,,2,3,,5,6,,NA,2
+1,6,1,2,1,,Life sciences,1,6,2,,6,8,,3,1,,4,2
+1,6,1,2,1,,Life sciences,1,3,4,,4,5,,2,6,,NA,2
+1,6,2,2,1,,Life sciences,2,2,3,,2,3,,4,2,,NA,2
+1,6,1,2,1,,Life sciences,2,3,2,,5,4,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,1,5,2,,5,4,,4,4,,NA,1
+1,5,1,2,2,,Physical sciences,2,4,2,,5,2,,4,6,,NA,1
+1,5,4,2,3,,Engineering,1,4,2,,4,3,,4,4,,NA,2
+1,6,1,2,3,,Engineering,2,3,1,,3,9,,3,5,,NA,1
+1,6,2,2,1,,Life sciences,1,5,8,,7,4,,3,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,4,,4,5,,4,6,,NA,1
+1,5,1,1,1,,Life sciences,NA,1,2,,5,4,,4,1,,154,1
+1,6,1,2,1,,Life sciences,1,5,3,,4,9,,4,1,,4,2
+1,5,1,1,3,,Engineering,NA,2,2,,5,5,,3,4,,NA,2
+1,6,1,2,3,,Engineering,1,5,9,"deceased, was unemployed",3,3,,5,4,,NA,2
+1,5,4,1,1,,Life sciences,NA,3,7,,4,3,,5,3,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,2,,4,5,,4,2,,NA,2
+1,6,2,2,2,,Physical sciences,1,6,6,,3,3,,4,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,7,7,,3,8,,2,1,,4,1
+1,5,2,2,1,,Life sciences,1,4,2,,3,2,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,2,3,9,Healthcare (Doctor),7,5,,5,1,,4,2
+1,6,2,2,3,,Engineering,1,6,2,,5,3,,2,4,,NA,2
+1,5,2,1,4,,Mathematics,NA,1,2,,5,9,,3,4,,NA,1
+1,6,1,2,3,,Engineering,1,5,2,,5,2,,5,1,,77,1
+1,6,2,2,1,,Life sciences,2,1,7,,5,2,,5,1,,4,1
+1,6,1,1,1,,Life sciences,NA,3,5,,4,9,,4,4,,NA,1
+1,8,2,2,1,,Life sciences,2,3,2,,4,5,,5,1,,4,1
+1,6,1,2,1,,Life sciences,1,3,6,,2,3,,5,4,,NA,2
+1,5,2,2,1,,Life sciences,2,1,6,,3,4,,4,1,,4,1
+1,5,1,2,2,,Physical sciences,2,2,10,,6,4,,4,4,,NA,2
+1,5,2,1,1,,Life sciences,NA,2,3,,4,8,,4,4,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,7,,4,4,,4,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,2,2,,4,2,,4,4,,NA,1
+1,6,1,2,1,,Life sciences,2,2,2,,4,4,,3,2,,NA,1
+1,6,2,2,4,,Mathematics,2,6,10,,4,8,,3,1,,4,1
+1,6,2,1,1,,Life sciences,NA,3,6,,1,7,,2,4,,NA,2
+1,6,2,2,5,,Computer science,1,6,2,,5,3,,5,4,,NA,2
+1,6,2,2,4,,Mathematics,1,5,10,,6,10,Worship and music asst. at church,5,1,,4,2
+1,5,1,2,4,,Mathematics,1,4,10,,6,3,,4,4,,NA,2
+1,6,1,2,4,,Mathematics,2,5,2,,5,3,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,1,2,1,,5,3,,5,4,,NA,1
+1,5,2,2,1,,Life sciences,1,3,9,Owner of metal fabrication business,4,10,Owner of metal fabrication business,3,1,,4,1
+1,6,1,2,1,,Life sciences,2,3,2,,3,4,,4,5,,NA,1
+1,5,2,2,2,,Physical sciences,2,1,2,,4,5,,4,2,,NA,1
+1,5,2,2,4,,Mathematics,2,2,2,,4,8,,4,1,,4,2
+1,5,2,1,2,,Physical sciences,NA,1,9,Corporate instructor / trainer,5,3,,6,3,,NA,2
+1,5,1,2,1,,Life sciences,2,2,2,,5,3,,4,6,,NA,1
+1,6,2,2,3,,Engineering,1,4,6,,3,9,,2,7,medical school,NA,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,3,,5,4,,NA,1
+1,5,1,1,1,,Life sciences,NA,2,3,,4,2,,5,1,,4,1
+1,5,1,2,2,,Physical sciences,2,2,4,,5,8,,3,1,,4,2
+1,5,1,1,2,,Physical sciences,NA,2,6,,3,2,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,2,2,9,deceased; formerly military/technical,3,2,,4,1,,4,2
+1,8,4,2,1,,Life sciences,1,5,7,,5,8,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,2,3,7,,3,4,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,3,2,,5,3,,6,1,,4,2
+1,6,2,1,2,,Physical sciences,NA,2,6,,3,2,,3,2,,NA,2
+1,7,1,1,2,,Physical sciences,NA,1,2,,4,9,,3,3,,NA,1
+1,5,1,2,2,,Physical sciences,2,2,9,chiropractor,5,10,massage therapist,4,2,,NA,2
+1,6,2,2,1,,Life sciences,1,3,7,,5,3,,4,4,,NA,1
+1,5,1,2,2,,Physical sciences,1,3,2,,4,2,,4,4,,NA,2
+1,5,1,2,1,,Life sciences,1,5,10,,6,10,Mother. Full time job you ingrates.,5,1,,4,1
+1,5,1,2,1,,Life sciences,2,2,3,,4,5,,1,1,,4,2
+1,6,2,2,1,,Life sciences,1,6,2,,4,10,Has held jobs in food quality testing,4,6,,NA,2
+1,5,1,2,1,,Life sciences,2,2,2,,6,9,,4,6,,NA,2
+1,7,2,2,2,,Physical sciences,1,2,7,,5,8,,3,1,,4,2
+1,6,2,2,1,,Life sciences,2,1,8,,1,7,,1,1,,4,2
+1,7,1,2,1,,Life sciences,2,2,2,,4,8,,4,1,,4,2
+1,5,1,2,2,,Physical sciences,1,4,6,,3,8,,2,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,2,,4,5,,4,6,,NA,2
+1,5,2,1,1,,Life sciences,NA,2,4,,4,3,,4,1,,4,1
+1,6,2,2,1,,Life sciences,2,4,3,,6,4,,6,1,,4,1
+1,6,1,2,1,,Life sciences,1,7,2,,5,5,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,1,3,2,,5,1,,4,6,,NA,1
+1,7,1,2,4,,Mathematics,1,6,2,,4,8,,3,4,,NA,1
+1,5,1,2,2,,Physical sciences,1,3,4,,4,10,Equestrian,4,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,3,2,,5,5,,5,4,,NA,1
+1,6,1,2,4,,Mathematics,1,6,4,,2,5,,2,1,,4,1
+1,6,1,2,2,,Physical sciences,2,2,2,,5,2,,5,6,,NA,2
+1,5,1,2,3,,Engineering,2,1,10,,4,3,,4,1,,4,1
+1,5,2,2,2,,Physical sciences,1,4,10,,6,2,,6,1,,4,1
+1,6,1,2,1,,Life sciences,2,1,6,,4,4,,4,1,,4,2
+1,6,2,2,1,,Life sciences,2,3,2,,5,2,,5,1,,4,1
+1,7,1,2,1,,Life sciences,1,5,1,,4,8,,3,4,,NA,2
+1,8,1,1,5,,Computer science,NA,2,2,,4,10,Self-employed,3,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,2,,5,10,fitness,4,4,,NA,1
+1,2,2,2,4,,Mathematics,1,5,2,,4,8,,4,1,,4,1
+1,6,1,2,1,,Life sciences,1,4,2,,5,3,,4,4,,NA,2
+1,5,2,1,5,,Computer science,NA,1,7,,2,8,,2,6,,NA,1
+1,5,1,2,2,,Physical sciences,1,3,8,,5,3,,6,6,,NA,1
+1,6,1,2,3,,Engineering,1,5,9,Deceased,6,2,,5,4,,NA,2
+1,5,1,2,3,,Engineering,2,1,7,,6,8,,4,6,,NA,1
+1,5,1,2,2,,Physical sciences,1,3,2,,4,3,,5,1,,4,2
+1,6,1,2,1,,Life sciences,1,5,2,,5,2,,5,1,,4,2
+1,6,1,2,1,,Life sciences,1,4,2,,5,2,,5,1,,4,1
+1,6,1,2,2,,Physical sciences,2,2,7,,2,8,,2,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,2,,4,3,,5,1,,4,2
+1,5,1,2,2,,Physical sciences,1,2,2,,5,2,,5,1,,4,1
+1,5,1,1,5,,Computer science,NA,1,2,,5,8,,5,4,,NA,1
+1,5,2,2,2,,Physical sciences,1,4,2,,5,2,,5,6,,NA,1
+1,5,2,2,1,,Life sciences,2,1,2,,5,5,,5,6,,NA,2
+1,5,2,1,2,,Physical sciences,NA,2,7,,5,8,,5,4,,NA,2
+1,6,2,2,3,,Engineering,1,5,2,,5,2,,4,1,,4,1
+1,5,2,1,1,,Life sciences,NA,1,6,,3,4,,4,1,,4,1
+1,5,2,2,1,,Life sciences,2,2,4,,1,8,,3,1,,4,2
+1,6,1,2,3,,Engineering,2,5,6,,3,2,,5,1,,4,1
+1,6,1,2,3,,Engineering,1,5,2,,5,5,,4,6,,NA,2
+1,6,1,2,3,,Engineering,1,7,7,,4,8,,4,4,,NA,2
+1,5,1,1,1,,Life sciences,NA,1,10,,6,3,,5,1,,4,2
+1,6,1,2,1,,Life sciences,2,7,2,,4,4,,3,4,,NA,1
+1,5,2,1,1,,Life sciences,NA,2,2,,5,4,,2,6,,NA,1
+1,5,1,2,3,,Engineering,2,2,2,,5,2,,4,4,,NA,2
+1,3,1,2,3,,Engineering,1,2,7,,3,4,,4,2,,NA,2
+1,6,1,2,4,,Mathematics,1,6,2,,5,2,,5,1,,4,1
+1,5,1,1,3,,Engineering,NA,1,10,,6,8,,5,1,,4,1
+1,6,1,2,3,,Engineering,1,6,10,,6,2,,5,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,10,,5,3,,4,1,,4,1
+1,6,2,2,3,,Engineering,1,4,2,,5,2,,4,6,,NA,2
+1,6,2,2,4,,Mathematics,1,5,10,,6,3,,6,1,,4,1
+1,5,1,2,3,,Engineering,1,4,2,,5,4,,5,1,,4,2
+1,6,1,1,2,,Physical sciences,NA,2,6,,2,5,,4,6,,NA,2
+1,5,1,1,3,,Engineering,NA,2,10,,6,10,Student,5,1,,4,2
+1,5,2,2,3,,Engineering,2,2,6,,3,8,,2,4,,NA,1
+1,7,1,1,1,,Life sciences,NA,2,2,,3,4,,2,4,,NA,2
+1,7,1,2,1,,Life sciences,1,3,5,,4,8,,4,3,,NA,1
+1,6,2,2,1,,Life sciences,2,1,3,,3,3,,5,1,,4,2
+1,5,2,2,2,,Physical sciences,2,1,2,,5,2,,5,1,,4,2
+1,6,2,2,1,,Life sciences,2,2,5,,3,2,,4,4,,NA,2
+1,6,1,1,5,,Computer science,NA,1,2,,5,2,,4,5,,NA,1
+1,5,2,2,4,,Mathematics,2,2,2,,4,2,,4,6,,NA,1
+1,5,2,1,2,,Physical sciences,NA,2,6,,2,4,,3,4,,NA,2
+1,6,1,1,5,,Computer science,NA,1,2,,4,8,,2,4,,NA,2
+1,5,2,2,3,,Engineering,2,3,10,,6,5,,3,2,,NA,1
+1,5,2,1,3,,Engineering,NA,1,2,,4,3,,4,1,,4,1
+1,5,2,1,1,,Life sciences,NA,1,6,,4,9,,4,7,Agricultural extension education,NA,1
+1,6,2,2,1,,Life sciences,1,3,2,,5,2,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,7,,5,8,,3,6,,NA,1
+1,5,1,1,3,,Engineering,NA,1,2,,4,5,,4,4,,NA,2
+1,7,1,1,5,,Computer science,NA,NA,10,,5,3,,5,4,,NA,1
+1,5,1,1,3,,Engineering,NA,1,2,,5,3,,6,5,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,10,,4,3,,5,1,,4,2
+1,6,2,2,4,,Mathematics,1,5,9,Business,1,8,,3,4,,NA,1
+1,5,1,1,2,,Physical sciences,NA,3,6,,3,9,,2,1,,4,1
+1,5,2,2,3,,Engineering,1,4,2,,5,3,,5,6,,NA,2
+1,6,2,1,2,,Physical sciences,NA,2,6,,2,5,,3,2,,NA,1
+1,5,1,2,4,,Mathematics,2,2,10,,6,8,,3,6,,NA,2
+1,5,1,1,3,,Engineering,NA,1,10,,6,3,,6,1,,4,2
+1,5,2,1,1,,Life sciences,NA,2,10,,3,3,,4,4,,NA,2
+1,5,1,1,4,,Mathematics,NA,1,6,,4,3,,4,4,,NA,2
+1,5,1,1,1,,Life sciences,NA,1,2,,5,2,,4,4,,NA,1
+1,5,4,2,2,,Physical sciences,2,3,2,,5,3,,4,6,,NA,2
+1,6,2,2,2,,Physical sciences,1,5,2,,6,8,,4,1,,4,1
+1,5,1,1,3,,Engineering,NA,2,10,,6,2,,5,4,,NA,2
+1,5,2,2,4,,Mathematics,1,5,9,management,4,4,,4,1,,4,1
+1,5,1,2,3,,Engineering,1,3,9,Minister,5,9,,3,1,,4,1
+1,5,1,1,4,,Mathematics,NA,1,6,,3,4,,3,4,,NA,2
+1,5,2,2,1,,Life sciences,2,2,10,,6,3,,6,1,,4,2
+1,6,1,2,1,,Life sciences,2,5,5,,2,4,,2,4,,NA,2
+1,6,1,2,1,,Life sciences,2,2,4,,3,8,,2,1,,4,2
+1,6,2,2,2,,Physical sciences,1,6,6,,5,8,,5,4,,NA,1
+1,2,2,1,1,,Life sciences,NA,3,5,,1,9,,2,6,,NA,1
+1,5,1,2,1,,Life sciences,2,2,2,,5,10,Middle School Secretary,3,4,,NA,2
+1,5,2,1,3,,Engineering,NA,1,2,,5,8,,5,4,,NA,2
+1,5,1,1,3,,Engineering,NA,1,2,,5,2,,5,4,,NA,1
+1,5,1,2,1,,Life sciences,2,3,6,,3,4,,2,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,6,2,,4,3,,5,4,,NA,1
+1,6,2,2,4,,Mathematics,2,5,8,,7,4,,4,1,,4,1
+1,5,1,1,3,,Engineering,NA,2,7,,2,8,,2,4,,NA,2
+1,6,2,2,2,,Physical sciences,2,2,7,,4,8,,4,6,,NA,2
+1,5,1,2,4,,Mathematics,2,1,8,,5,3,,4,1,,4,2
+1,6,2,2,1,,Life sciences,1,4,8,,3,2,,5,6,,NA,1
+1,5,2,1,1,,Life sciences,NA,1,6,,2,5,,2,3,,NA,1
+1,5,1,1,1,,Life sciences,NA,1,4,,3,4,,3,3,,NA,1
+1,6,2,1,2,,Physical sciences,NA,2,2,,5,2,,5,6,,NA,1
+1,5,1,1,3,,Engineering,NA,2,2,,5,9,,4,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,2,,5,8,,5,1,,4,2
+1,6,2,2,2,,Physical sciences,2,4,3,,3,5,,3,6,,NA,2
+1,7,2,2,2,,Physical sciences,1,7,2,,6,3,,5,4,,NA,2
+1,6,1,2,1,,Life sciences,1,2,2,,5,2,,5,1,,4,2
+1,6,1,2,2,,Physical sciences,1,5,7,,4,8,,4,1,,4,1
+1,5,1,2,1,,Life sciences,2,1,2,,4,2,,4,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,2,,5,2,,5,1,,4,1
+1,5,2,2,2,,Physical sciences,2,1,10,,6,7,,5,1,,4,1
+1,5,2,2,4,,Mathematics,2,2,10,,6,3,,5,1,,4,1
+1,6,1,2,1,,Life sciences,1,5,4,,2,5,,3,1,,4,1
+1,6,2,2,1,,Life sciences,1,6,6,,2,5,,2,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,7,2,,5,8,,3,1,,4,2
+1,5,1,2,2,,Physical sciences,2,1,8,,7,5,,2,1,,4,2
+1,6,1,2,1,,Life sciences,2,4,2,,5,2,,5,6,,NA,2
+1,6,1,1,2,,Physical sciences,NA,1,4,,4,9,,2,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,2,,6,8,,5,5,,NA,2
+1,6,2,2,1,,Life sciences,1,4,6,,2,9,,7,1,,4,1
+1,6,1,2,1,,Life sciences,1,5,9,Insurance,4,8,,3,4,,NA,1
+1,2,1,2,4,,Mathematics,2,4,2,,5,2,,5,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,7,,5,2,,5,1,,4,2
+1,5,1,2,1,,Life sciences,1,3,2,,4,2,,4,4,,NA,2
+1,8,1,2,2,,Physical sciences,1,7,2,,4,8,,5,6,,NA,2
+1,7,1,2,5,,Computer science,1,6,7,,4,8,,3,4,,NA,2
+1,6,2,2,1,,Life sciences,2,2,10,,6,8,,5,1,,71,1
+1,5,2,1,4,,Mathematics,NA,1,4,,2,5,,2,7,Pursue phd,NA,1
+1,7,2,2,1,,Life sciences,2,1,7,,5,8,,5,1,,4,2
+1,5,1,1,5,,Computer science,NA,2,9,Managing Librarian at large public library,5,2,,5,2,,NA,1
+1,6,1,2,4,,Mathematics,1,6,9,arts,4,10,arts,3,1,,4,1
+1,6,1,2,3,,Engineering,1,5,4,,4,5,,4,6,,NA,1
+1,5,1,2,1,,Life sciences,2,1,3,,1,4,,1,4,,NA,2
+1,7,2,2,1,,Life sciences,1,6,10,,5,3,,5,1,,4,2
+1,5,1,2,3,,Engineering,1,3,2,,4,10,state government,4,1,,4,2
+1,5,1,2,4,,Mathematics,2,3,2,,4,9,,4,1,,4,2
+1,5,1,2,1,,Life sciences,2,4,2,,4,4,,5,1,,4,1
+1,3,1,2,3,,Engineering,2,3,2,,5,9,,2,2,,NA,2
+1,6,1,2,1,,Life sciences,1,5,1,,5,4,,5,1,,4,1
+1,8,1,1,2,,Physical sciences,NA,1,8,,5,3,,5,1,,4,1
+1,6,1,2,1,,Life sciences,1,4,2,,6,4,,4,6,,NA,2
+1,6,2,2,4,,Mathematics,2,3,9,Unknown,3,5,,4,1,,4,2
+1,2,2,2,1,,Life sciences,1,5,7,,2,8,,6,3,,NA,1
+1,5,2,2,4,,Mathematics,1,3,2,,5,2,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,4,2,,5,8,,4,1,,4,1
+1,5,4,2,4,,Mathematics,2,3,9,software engineer,6,3,,5,6,,NA,2
+1,7,4,2,2,,Physical sciences,1,5,2,,5,8,,4,1,,4,1
+1,5,1,1,2,,Physical sciences,NA,2,2,,5,8,,3,6,,NA,2
+1,7,1,2,2,,Physical sciences,2,4,3,,2,5,,2,1,,4,1
+1,6,2,2,2,,Physical sciences,1,7,2,,4,2,,4,1,,4,2
+1,6,1,2,1,,Life sciences,1,5,2,,5,2,,5,4,,NA,1
+1,5,2,2,1,,Life sciences,2,1,4,,3,4,,2,6,,NA,2
+1,7,2,2,1,,Life sciences,2,3,2,,4,3,,4,1,,4,1
+1,5,1,2,2,,Physical sciences,1,3,9,Management,3,10,Real Estate,3,2,,NA,1
+1,6,1,2,3,,Engineering,1,5,10,,4,4,,4,2,,NA,1
+1,2,1,1,3,,Engineering,NA,3,7,,1,9,,1,4,,NA,2
+1,5,2,1,3,,Engineering,NA,2,4,,2,8,,2,4,,NA,2
+1,5,1,2,3,,Engineering,2,1,2,,5,3,,5,1,,4,1
+1,7,2,1,5,,Computer science,NA,1,2,,6,2,,6,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,4,9,Self-employed artist,4,10,Self-employed business owner,4,1,,77,1
+1,5,1,1,2,,Physical sciences,NA,1,6,,2,4,,2,4,,NA,1
+1,5,2,2,1,,Life sciences,1,4,10,,6,10,ASL Interpreter,4,1,,4,1
+1,5,1,1,3,,Engineering,NA,1,2,,4,8,,4,5,,NA,1
+1,5,1,2,1,,Life sciences,2,3,2,,4,4,,4,4,,NA,2
+1,5,1,1,5,,Computer science,NA,1,7,,2,10,Housecleaner,2,4,,NA,1
+1,6,1,2,3,,Engineering,2,3,2,,4,3,,5,6,,NA,1
+1,5,2,2,2,,Physical sciences,1,4,6,,3,8,,3,4,,NA,2
+1,5,1,2,1,,Life sciences,2,2,2,,5,8,,5,1,,4,2
+1,7,2,2,1,,Life sciences,1,6,7,,5,8,,6,1,,4,1
+1,6,2,2,1,,Life sciences,1,6,4,,2,2,,5,1,,4,2
+1,2,1,2,4,,Mathematics,2,3,7,,5,3,,6,6,,NA,2
+1,5,2,2,2,,Physical sciences,2,2,2,,5,2,,NA,1,,77,2
+1,7,2,2,1,,Life sciences,2,1,2,,4,2,,4,1,,4,2
+1,6,2,2,2,,Physical sciences,1,5,7,,4,2,,5,4,,NA,2
+1,6,1,2,1,,Life sciences,1,6,6,,2,5,,3,2,,NA,1
+1,5,1,2,3,,Engineering,2,2,3,,4,4,,3,1,,4,1
+1,6,1,2,1,,Life sciences,1,2,5,,4,3,,5,1,,4,1
+1,8,1,2,1,,Life sciences,2,1,6,,2,7,,2,1,,4,1
+1,6,1,2,5,,Computer science,2,3,3,,4,8,,2,4,,NA,2
+1,6,2,2,1,,Life sciences,1,5,2,,5,2,,5,6,,NA,1
+1,7,1,2,5,,Computer science,2,1,6,,4,7,,4,1,,4,2
+1,6,2,2,2,,Physical sciences,1,7,2,,4,8,,4,1,,4,1
+1,6,2,2,2,,Physical sciences,1,7,3,,3,4,,3,1,,4,1
+1,6,1,1,1,,Life sciences,NA,3,9,homeless,1,9,,3,1,,4,1
+1,5,2,2,1,,Life sciences,2,1,5,,3,5,,3,6,,NA,1
+1,6,2,2,2,,Physical sciences,1,6,10,,5,3,,5,1,,4,1
+1,3,1,2,3,,Engineering,2,2,7,,3,4,,4,7,Continue current employment,NA,2
+1,6,2,2,3,,Engineering,1,5,6,,2,3,,2,4,,NA,2
+1,6,2,1,1,,Life sciences,NA,2,2,,6,3,,6,1,,206,2
+1,6,2,1,2,,Physical sciences,NA,4,3,,3,3,,4,2,,NA,2
+1,6,1,2,3,,Engineering,1,5,2,,4,4,,3,4,,NA,2
+1,6,2,2,2,,Physical sciences,1,4,6,,2,4,,3,6,,NA,2
+1,7,1,2,1,,Life sciences,1,7,2,,4,10,Deceased,3,1,,4,1
+1,6,2,1,1,,Life sciences,NA,1,4,,4,8,,4,1,,4,2
+1,6,2,2,2,,Physical sciences,1,7,4,,3,10,Laboratory Manager,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,5,2,,4,8,,3,1,,4,1
+1,6,1,2,5,,Computer science,2,2,7,,6,3,,5,5,,NA,2
+1,6,2,2,2,,Physical sciences,2,2,6,,2,4,,4,1,,4,2
+1,6,1,2,3,,Engineering,2,4,4,,3,4,,2,3,,NA,2
+1,6,1,1,1,,Life sciences,NA,3,7,,3,3,,4,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,5,7,,6,8,,3,1,,4,2
+1,7,1,2,3,,Engineering,1,4,9,deceased,4,8,,3,6,,NA,1
+1,5,1,2,2,,Physical sciences,1,3,9,Veterinary Medicine,7,8,,3,3,,NA,2
+1,8,1,2,3,,Engineering,1,4,7,,4,8,,4,2,,NA,2
+1,6,2,2,2,,Physical sciences,1,5,2,,5,2,,5,6,,NA,1
+1,5,2,1,3,,Engineering,NA,2,2,,5,5,,4,4,,NA,2
+1,6,2,2,1,,Life sciences,1,5,9,"deceased, but was educator/researcher",6,3,,5,1,,4,1
+1,6,1,2,2,,Physical sciences,2,5,2,,6,2,,5,1,,4,2
+1,7,1,2,4,,Mathematics,1,7,7,,5,10,Writer,5,1,,4,2
+1,5,1,2,4,,Mathematics,2,2,2,,3,10,Government,3,1,,4,2
+1,7,2,2,1,,Life sciences,2,2,8,,2,4,,4,6,,NA,1
+1,5,2,2,1,,Life sciences,2,2,4,,4,8,,3,1,,4,2
+1,6,2,2,2,,Physical sciences,1,4,2,,4,2,,4,1,,4,1
+1,5,1,2,2,,Physical sciences,1,4,2,,4,3,,4,1,,4,2
+1,5,1,2,2,,Physical sciences,1,4,10,,6,3,,5,4,,NA,2
+1,8,1,2,1,,Life sciences,1,3,3,,2,2,,2,4,,NA,1
+1,5,1,2,3,,Engineering,1,2,10,,6,4,,3,4,,NA,2
+1,5,2,1,2,,Physical sciences,NA,3,6,,2,4,,2,4,,NA,2
+1,5,1,1,3,,Engineering,NA,2,10,,6,4,,5,2,,NA,2
+1,6,1,1,3,,Engineering,NA,2,10,,6,3,,6,1,,4,2
+1,7,1,2,1,,Life sciences,1,7,7,,5,8,,3,6,,NA,1
+1,5,2,2,1,,Life sciences,2,3,9,I don't know I haven't talked to him in years,4,10,programmer,4,1,,4,1
+1,5,1,1,3,,Engineering,NA,1,2,,5,9,,4,6,,NA,1
+1,6,2,1,5,,Computer science,NA,1,9,nurse,6,2,,5,4,,NA,1
+1,8,2,2,2,,Physical sciences,2,2,7,,3,6,,7,6,,NA,2
+1,5,2,2,2,,Physical sciences,2,1,2,,5,2,,5,1,,4,2
+1,5,1,2,3,,Engineering,1,2,6,,2,3,,6,4,,NA,2
+1,5,2,2,3,,Engineering,2,1,2,,5,2,,5,1,,4,1
+1,5,1,2,3,,Engineering,2,1,2,,4,8,,4,1,,4,1
+1,5,1,1,4,,Mathematics,NA,1,10,,5,3,,4,1,,4,2
+1,8,1,2,5,,Computer science,1,5,2,,5,2,,4,4,,NA,2
+1,6,1,2,1,,Life sciences,2,2,4,,3,9,,3,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,2,,4,3,,4,1,,4,2
+1,5,1,1,1,,Life sciences,NA,3,5,,5,4,,4,6,,NA,1
+1,8,1,2,3,,Engineering,1,3,8,,5,9,,4,4,,NA,1
+1,7,1,2,1,,Life sciences,1,5,2,,4,3,,5,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,5,7,,4,8,,2,1,,4,2
+1,5,2,2,2,,Physical sciences,2,2,2,,5,9,,3,4,,NA,2
+1,5,2,2,2,,Physical sciences,2,1,6,,4,9,,3,6,,NA,2
+1,7,1,2,1,,Life sciences,1,3,6,,2,5,,2,1,,4,2
+1,5,2,1,1,,Life sciences,NA,1,2,,5,8,,3,1,,4,2
+1,7,1,2,1,,Life sciences,1,4,4,,3,5,,3,1,,4,2
+1,6,1,2,1,,Life sciences,2,4,2,,5,2,,5,1,,4,1
+1,5,1,1,1,,Life sciences,NA,2,5,,5,3,,3,6,,NA,2
+1,5,1,2,1,,Life sciences,2,1,4,,3,5,,1,1,,4,1
+1,6,1,2,5,,Computer science,1,5,6,,3,5,,3,6,,NA,2
+1,2,1,2,2,,Physical sciences,1,7,2,,4,9,,3,1,,4,1
+1,5,1,2,2,,Physical sciences,2,1,2,,6,3,,6,1,,4,2
+1,5,2,2,4,,Mathematics,2,2,2,,5,9,,4,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,6,,1,4,,2,6,,NA,1
+1,5,2,1,3,,Engineering,NA,2,2,,4,2,,4,4,,NA,2
+1,6,1,2,2,,Physical sciences,1,3,8,,4,2,,3,4,,NA,1
+1,6,2,2,1,,Life sciences,2,1,3,,3,3,,5,3,,NA,2
+1,6,1,2,1,,Life sciences,1,4,4,,3,5,,2,4,,NA,1
+1,5,2,1,5,,Computer science,NA,1,6,,3,2,,4,4,,NA,2
+1,6,2,2,2,,Physical sciences,1,6,10,,6,2,,6,2,,NA,1
+1,7,2,2,1,,Life sciences,1,6,2,,5,8,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,6,,2,3,,5,1,,4,2
+1,6,2,2,1,,Life sciences,1,5,8,,4,4,,2,7,Look for a postdoc doing clinical work and maybe research,NA,1
+1,6,2,1,1,,Life sciences,NA,1,2,,4,4,,3,3,,NA,1
+1,5,2,2,4,,Mathematics,2,2,7,,5,3,,5,1,,4,1
+1,6,1,2,3,,Engineering,1,5,2,,5,2,,2,4,,NA,2
+1,7,2,2,1,,Life sciences,2,4,7,,4,3,,4,1,,4,1
+1,5,1,2,3,,Engineering,2,2,7,,2,3,,5,6,,NA,2
+1,5,2,2,1,,Life sciences,2,2,2,,5,2,,4,1,,4,2
+1,6,2,1,1,,Life sciences,NA,3,6,,3,5,,3,4,,NA,1
+1,6,2,2,2,,Physical sciences,2,1,2,,4,2,,4,1,,4,2
+1,6,2,2,4,,Mathematics,1,4,7,,2,9,,7,1,,4,2
+1,5,2,1,4,,Mathematics,NA,1,6,,4,8,,3,6,,NA,1
+1,6,1,2,2,,Physical sciences,1,5,9,Musician,4,3,,5,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,2,7,,6,5,,4,1,,4,1
+1,6,1,2,2,,Physical sciences,1,5,2,,4,8,,4,4,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,2,,6,1,,5,4,,NA,2
+1,5,2,2,1,,Life sciences,2,1,2,,5,5,,4,1,,4,1
+1,5,2,1,5,,Computer science,NA,1,2,,6,8,,4,1,,4,1
+1,6,2,2,3,,Engineering,1,4,6,,4,9,,3,4,,NA,1
+1,6,2,2,2,,Physical sciences,1,6,10,,5,3,,5,1,,4,1
+1,6,2,2,1,,Life sciences,1,5,10,,5,10,poet,4,2,,NA,1
+1,5,1,2,2,,Physical sciences,2,2,4,,4,4,,4,1,,4,2
+1,5,1,2,1,,Life sciences,2,2,6,,3,10,House Cleaner,1,1,,4,2
+1,5,2,1,2,,Physical sciences,NA,1,9,Business owner ,4,8,,4,4,,NA,2
+1,6,1,2,3,,Engineering,2,1,2,,5,2,,5,6,,NA,2
+1,5,2,1,1,,Life sciences,NA,2,6,,2,5,,7,7,PhD program,NA,2
+1,6,2,2,1,,Life sciences,2,2,6,,3,3,,5,1,,4,1
+1,6,1,1,5,,Computer science,NA,1,2,,5,4,,4,4,,NA,1
+1,6,1,2,1,,Life sciences,1,4,8,,1,10,retired; former bus driver (service worker?),2,1,,4,1
+1,5,1,2,4,,Mathematics,2,2,9,Pastor,5,9,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,1,2,,4,9,,6,1,,4,1
+1,5,2,2,2,,Physical sciences,2,1,2,,5,2,,5,6,,NA,1
+1,7,1,2,3,,Engineering,2,2,3,,3,9,,2,1,,4,1
+1,5,1,1,4,,Mathematics,NA,1,10,,6,3,,5,4,,NA,1
+1,5,2,2,4,,Mathematics,2,3,2,,5,8,,4,1,,4,1
+1,7,1,2,1,,Life sciences,2,2,2,,6,3,,6,6,,NA,2
+1,6,1,2,5,,Computer science,2,2,2,,4,2,,4,4,,NA,1
+1,5,2,2,2,,Physical sciences,2,3,7,,2,2,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,1,3,9,business,4,10,personal trainer,4,6,,NA,2
+1,5,1,2,1,,Life sciences,2,1,2,,5,2,,5,1,,4,2
+1,7,1,2,2,,Physical sciences,2,1,2,,4,9,,2,1,,4,1
+1,6,4,2,2,,Physical sciences,2,5,4,,4,8,,4,1,,4,1
+1,2,2,2,4,,Mathematics,2,1,7,,7,8,,1,1,,4,2
+1,6,1,1,1,,Life sciences,NA,2,6,,2,7,,4,6,,NA,2
+1,7,1,2,1,,Life sciences,1,5,9,small business owner,2,10,small business owner,2,4,,NA,2
+1,5,2,2,1,,Life sciences,2,2,10,,6,9,,3,2,,NA,2
+1,5,2,2,2,,Physical sciences,2,2,7,,5,3,,5,1,,4,2
+1,5,1,2,2,,Physical sciences,2,2,6,,5,9,,4,3,,NA,2
+1,6,2,2,3,,Engineering,2,5,10,,6,3,,5,6,,NA,2
+1,6,2,2,1,,Life sciences,2,1,7,,3,10,Housewife,7,1,,4,1
+1,7,2,2,2,,Physical sciences,2,4,7,,4,8,,6,1,,71,1
+1,5,2,1,1,,Life sciences,NA,2,4,,2,8,,3,7,Medical school,NA,1
+1,5,2,1,1,,Life sciences,NA,2,2,,4,5,,4,2,,NA,1
+1,6,2,2,1,,Life sciences,1,7,4,,4,4,,5,1,,206,1
+1,5,1,2,3,,Engineering,1,3,4,,3,5,,3,4,,NA,2
+1,6,1,2,1,,Life sciences,2,3,7,,6,8,,5,1,,4,1
+1,6,2,2,1,,Life sciences,2,1,10,,6,10,Business,4,2,,NA,1
+1,6,2,2,2,,Physical sciences,2,3,2,,5,3,,5,6,,NA,1
+1,6,1,1,4,,Mathematics,NA,1,6,,2,9,,3,2,,NA,2
+1,6,2,2,5,,Computer science,2,3,9,"Deceased, but worked as an engineer (professional) when living",5,3,,5,6,,NA,1
+1,6,2,2,1,,Life sciences,1,3,2,,5,9,,4,6,,NA,1
+1,5,2,1,1,,Life sciences,NA,2,9,Real Estate Business Owner,4,2,,4,1,,4,1
+1,5,1,2,3,,Engineering,1,3,6,,4,10,"Small business owner, Riding Instructor",5,1,,4,2
+1,6,2,2,1,,Life sciences,1,4,7,,5,10,University administrator (registrar),5,4,,NA,1
+1,5,1,2,1,,Life sciences,1,3,2,,5,8,,6,1,,4,2
+1,6,2,2,4,,Mathematics,1,6,9,Photographer and Art Director,5,10,Prop Stylist,3,1,,98,1
+1,5,2,2,2,,Physical sciences,1,3,2,,5,2,,5,1,,4,2
+1,7,2,2,1,,Life sciences,1,5,2,,5,9,,4,6,,NA,2
+1,5,1,2,4,,Mathematics,2,1,10,,4,2,,5,6,,NA,1
+1,6,1,2,2,,Physical sciences,1,4,2,,4,2,,4,6,,NA,2
+1,6,1,2,2,,Physical sciences,2,2,2,,6,2,,5,6,,NA,2
+1,5,1,2,3,,Engineering,1,4,3,,2,9,,1,4,,NA,2
+1,5,1,2,4,,Mathematics,2,4,4,,5,9,,4,1,,4,1
+1,5,2,1,1,,Life sciences,NA,2,2,,4,4,,5,3,,NA,1
+1,6,1,2,2,,Physical sciences,1,6,2,,4,3,,4,4,,NA,2
+1,6,1,1,5,,Computer science,NA,1,4,,3,5,,4,4,,NA,2
+1,6,1,2,4,,Mathematics,2,1,2,,5,8,,4,1,,4,1
+1,8,1,2,2,,Physical sciences,2,3,7,,1,4,,3,2,,NA,1
+1,5,2,2,2,,Physical sciences,1,3,2,,5,8,,4,6,,NA,2
+1,5,1,2,2,,Physical sciences,2,2,10,,5,2,,4,1,,4,2
+1,5,2,2,1,,Life sciences,2,1,2,,6,8,,6,1,,4,2
+1,5,2,2,2,,Physical sciences,2,3,2,,5,2,,5,6,,NA,2
+1,6,1,2,5,,Computer science,2,1,10,,6,3,,6,6,,NA,1
+1,6,2,2,2,,Physical sciences,1,4,2,,5,5,,5,4,,NA,2
+1,8,1,2,5,,Computer science,2,2,7,,6,3,,6,1,,4,1
+1,5,1,2,2,,Physical sciences,2,3,2,,4,2,,4,6,,NA,2
+1,6,2,1,2,,Physical sciences,NA,4,4,,3,8,,4,1,,4,2
+1,6,1,2,1,,Life sciences,2,2,2,,5,8,,5,6,,NA,1

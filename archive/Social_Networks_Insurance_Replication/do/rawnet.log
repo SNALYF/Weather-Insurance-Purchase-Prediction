@@ -1,0 +1,1004 @@
+---------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Documents\disk D\temp\insurance exp\do-files_round2_data\042614_rawnet.log
+  log type:  text
+ opened on:   1 May 2014, 23:08:38
+
+. cd "C:\Documents\disk D\insurance exp\data_round2\final\"
+C:\Documents\disk D\insurance exp\data_round2\final
+
+. 
+. clear
+
+. 
+. *************************1. Generate basic social network variables*********************
+. use 0422allinforawnet, replace
+
+. *dropped 331 households
+. drop if network_missname == 1 & network_id == .
+(331 observations deleted)
+
+. d,s
+
+Contains data from 0422allinforawnet.dta
+  obs:        22,912                          
+ vars:            12                          1 May 2014 22:08
+ size:     2,474,496                          
+Sorted by:  
+     Note:  dataset has changed since last saved
+
+. codebook id
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111031,1.120e+09]          units:  1
+         unique values:  4662                     missing .:  0/22912
+
+                  mean:   4.1e+07
+              std. dev:   1.8e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. 
+. *Define Network size
+. bysort id: gen network_obs = _N
+
+. tab network_obs
+
+network_obs |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |         23        0.10        0.10
+          2 |         58        0.25        0.35
+          3 |        162        0.71        1.06
+          4 |        444        1.94        3.00
+          5 |     22,225       97.00      100.00
+------------+-----------------------------------
+      Total |     22,912      100.00
+
+. *Define friends in first round intensive session
+. gen network_pre_intensive = .
+(22912 missing values generated)
+
+. replace network_pre_intensive = 1 if delay == 0 & intensive == 1
+(3766 real changes made)
+
+. *Define friends in first round session
+. gen network_presession = .
+(22912 missing values generated)
+
+. replace network_presession = 1 if delay == 0
+(7686 real changes made)
+
+. bysort id: egen network_sum_preintensive = sum(network_pre_intensive)
+
+. bysort id: egen network_sum_presession = sum(network_presession)
+
+. *Define fiends' take-up rate in first round sessions
+. gen network_pretakeup = .
+(22912 missing values generated)
+
+. replace network_pretakeup = 1 if network_presession == 1 & takeup_survey == 1
+(3455 real changes made)
+
+. gen flag = 1 if network_presession == 1 & takeup_survey ~= .
+(15453 missing values generated)
+
+. bysort id: egen flag_sum = sum(flag)
+
+. bysort id: egen network_sum_pretakeup = sum(network_pretakeup)
+
+. replace network_sum_pretakeup = . if flag_sum == 0
+(4377 real changes made, 4377 to missing)
+
+. gen network_rate_preintensive = network_sum_preintensive/network_obs
+
+. gen network_rate_presession = network_sum_presession/network_obs
+
+. gen network_rate_pretakeup = network_sum_pretakeup/network_sum_presession
+(4377 missing values generated)
+
+. *Define friends in first round simple session
+. gen network_rate_presimple = network_rate_presession - network_rate_preintensive
+
+. sum network_rate_presimple, d
+
+                   network_rate_presimple
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs               22912
+25%            0              0       Sum of Wgt.       22912
+
+50%           .2                      Mean           .1710894
+                        Largest       Std. Dev.       .193083
+75%           .2              1
+90%           .4              1       Variance       .0372811
+95%           .6              1       Skewness       1.318047
+99%           .8              1       Kurtosis       5.122986
+
+. *Define first-round friends' average insurance knowledge
+. bysort id: egen knowledge_network_temp = mean(understanding) if delay == 0
+(15330 missing values generated)
+
+. bysort id: egen knowledge_network = mean(knowledge_network_temp)
+(4315 missing values generated)
+
+. 
+. *Generate dummies of number of friends
+. forvalues i = 1(1)5{
+  2.   gen friend`i'=0 if network_obs ~= .
+  3.   replace friend`i' = 1 if network_obs == `i'
+  4. }
+(23 real changes made)
+(58 real changes made)
+(162 real changes made)
+(444 real changes made)
+(22225 real changes made)
+
+. *l friend1 friend2 friend3 friend4 friend5 network_obs in 1/10
+. 
+. *Define number of friends in first round intensive session
+. gen network_onlyone = 0 if network_rate_preintensive ~= .
+
+. gen network_onlytwo = 0 if network_rate_preintensive ~= .
+
+. gen network_twomore = 0 if network_rate_preintensive ~= .
+
+. gen number_preintensive = network_rate_preintensive*network_obs
+
+. tab number_preintensive
+
+number_prei |
+   ntensive |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     10,247       44.72       44.72
+          1 |      8,303       36.24       80.96
+          2 |      3,165       13.81       94.78
+          3 |        882        3.85       98.63
+          4 |        230        1.00       99.63
+          5 |         85        0.37      100.00
+------------+-----------------------------------
+      Total |     22,912      100.00
+
+. replace network_onlyone = 1 if number_preintensive == 1
+(8303 real changes made)
+
+. replace network_onlytwo = 1 if number_preintensive == 2
+(3165 real changes made)
+
+. replace network_twomore = 1 if number_preintensive ~= . & number_preintensive > 1
+(4362 real changes made)
+
+. 
+. *Define network - yes or no
+. gen network_yes = 1 if network_rate_preintensive ~= .
+
+. replace network_yes = 0 if network_rate_preintensive == 0
+(10247 real changes made)
+
+. 
+. keep id network_obs network_rate_preintensive network_rate_presimple network_rate_presession network_ra
+> te_pretakeup knowledge_network friend* network_onlyone network_onlytwo network_twomore network_yes
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(18250 observations deleted)
+
+. codebook id
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111031,1.120e+09]          units:  1
+         unique values:  4662                     missing .:  0/4662
+
+                  mean:   4.1e+07
+              std. dev:   1.8e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. d,s
+
+Contains data from 0422allinforawnet.dta
+  obs:         4,662                          
+ vars:            16                          1 May 2014 22:08
+ size:       298,368                          
+Sorted by:  id
+     Note:  dataset has changed since last saved
+
+. sort id
+
+. *4662 households
+. save 0422basicnetworkvar, replace
+file 0422basicnetworkvar.dta saved
+
+. 
+. 
+. *************************2. Generate alternative social network measures: strong and weak**************
+> *******
+. ************a.define two-sided links************
+. use 0422allinforawnet, replace
+
+. *dropped 331 households
+. drop if network_missname == 1 & network_id == .
+(331 observations deleted)
+
+. *22912 obs, 4662 hhs
+. codebook id
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111031,1.120e+09]          units:  1
+         unique values:  4662                     missing .:  0/22912
+
+                  mean:   4.1e+07
+              std. dev:   1.8e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. d,s
+
+Contains data from 0422allinforawnet.dta
+  obs:        22,912                          
+ vars:            12                          1 May 2014 22:08
+ size:     2,474,496                          
+Sorted by:  
+     Note:  dataset has changed since last saved
+
+. keep id network_id
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(111 observations deleted)
+
+. sort id network_id
+
+. *22801 obs
+. save 0422data1, replace
+file 0422data1.dta saved
+
+. d,s
+
+Contains data from 0422data1.dta
+  obs:        22,801                          
+ vars:             2                          1 May 2014 23:08
+ size:       182,408                          
+Sorted by:  id  network_id
+
+. 
+. rename id id_temp
+
+. rename network_id id
+
+. rename id_temp network_id
+
+. sort id network_id
+
+. save 0422data2, replace
+file 0422data2.dta saved
+
+. 
+. use 0422data1, replace
+
+. merge id network_id using 0422data2
+(note: you are using old merge syntax; see [D] merge for new syntax)
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |     18,273       44.49       44.49
+          2 |     18,273       44.49       88.98
+          3 |      4,528       11.02      100.00
+------------+-----------------------------------
+      Total |     41,074      100.00
+
+. drop if _m == 2
+(18273 observations deleted)
+
+. gen twoside = 0 
+
+. replace twoside = 1 if _m == 3
+(4528 real changes made)
+
+. drop _m
+
+. keep id network_id twoside
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(0 observations are duplicates)
+
+. sort id network_id
+
+. save 0422twoside, replace
+file 0422twoside.dta saved
+
+. 
+. *************b.define second-order links***********
+. use 0422allinforawnet, replace
+
+. *dropped 331 households
+. drop if network_missname == 1 & network_id == .
+(331 observations deleted)
+
+. *22912 obs, 4662 hhs
+. codebook id
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111031,1.120e+09]          units:  1
+         unique values:  4662                     missing .:  0/22912
+
+                  mean:   4.1e+07
+              std. dev:   1.8e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. keep id network_id
+
+. drop if network_id == 99
+(192 observations deleted)
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(57 observations deleted)
+
+. save 0422data1, replace
+file 0422data1.dta saved
+
+. 
+. rename network_id secondnet_id
+
+. rename id network_id
+
+. bysort network_id (secondnet_id): gen obs = _n
+
+. reshape wide secondnet_id, i(network_id) j(obs)
+(note: j = 1 2 3 4 5)
+
+Data                               long   ->   wide
+-----------------------------------------------------------------------------
+Number of obs.                    22663   ->    4661
+Number of variables                   3   ->       6
+j variable (5 values)               obs   ->   (dropped)
+xij variables:
+                           secondnet_id   ->   secondnet_id1 secondnet_id2 ... secondnet_id5
+-----------------------------------------------------------------------------
+
+. sort network_id
+
+. isid network_id
+
+. save 0422data2, replace
+file 0422data2.dta saved
+
+. 
+. use 0422data1, replace
+
+. d
+
+Contains data from 0422data1.dta
+  obs:        22,663                          
+ vars:             2                          1 May 2014 23:08
+ size:       181,304                          
+---------------------------------------------------------------------------------------------------------
+              storage  display     value
+variable name   type   format      label      variable label
+---------------------------------------------------------------------------------------------------------
+id              long   %20.0g                 Household ID
+network_id      long   %20.0g                 Network Information - ID
+---------------------------------------------------------------------------------------------------------
+Sorted by:  
+
+. sort network_id
+
+. merge network_id using 0422data2
+(note: you are using old merge syntax; see [D] merge for new syntax)
+variable network_id does not uniquely identify observations in the master data
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |      6,070       26.31       26.31
+          2 |        404        1.75       28.07
+          3 |     16,593       71.93      100.00
+------------+-----------------------------------
+      Total |     23,067      100.00
+
+. drop if _m == 2
+(404 observations deleted)
+
+. drop _m
+
+. reshape long secondnet_id, i(id network_id) j(secondnet_obs)
+(note: j = 1 2 3 4 5)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                    22663   ->  113315
+Number of variables                   7   ->       4
+j variable (5 values)                     ->   secondnet_obs
+xij variables:
+secondnet_id1 secondnet_id2 ... secondnet_id5->secondnet_id
+-----------------------------------------------------------------------------
+
+. drop secondnet_obs network_id
+
+. drop if secondnet_id == .
+(32390 observations deleted)
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(16928 observations deleted)
+
+. codebook id 
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111031,1.120e+09]          units:  1
+         unique values:  4593                     missing .:  0/63997
+
+                  mean:   4.0e+07
+              std. dev:   1.8e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. drop if id == secondnet_id
+(2762 observations deleted)
+
+. bysort id: gen secondnet_obs = _N
+
+. tab secondnet_obs
+
+secondnet_o |
+         bs |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |          1        0.00        0.00
+          2 |          6        0.01        0.01
+          3 |         21        0.03        0.05
+          4 |        304        0.50        0.54
+          5 |        870        1.42        1.96
+          6 |        162        0.26        2.23
+          7 |        539        0.88        3.11
+          8 |      1,304        2.13        5.24
+          9 |      2,520        4.12        9.35
+         10 |      3,100        5.06       14.41
+         11 |      3,168        5.17       19.59
+         12 |      5,460        8.92       28.50
+         13 |      5,915        9.66       38.16
+         14 |      6,146       10.04       48.20
+         15 |      5,910        9.65       57.85
+         16 |      5,984        9.77       67.62
+         17 |      6,188       10.11       77.73
+         18 |      4,842        7.91       85.64
+         19 |      3,325        5.43       91.07
+         20 |      2,500        4.08       95.15
+         21 |      1,260        2.06       97.21
+         22 |      1,034        1.69       98.90
+         23 |        483        0.79       99.68
+         24 |        168        0.27       99.96
+         25 |         25        0.04      100.00
+------------+-----------------------------------
+      Total |     61,235      100.00
+
+. d
+
+Contains data
+  obs:        61,235                          
+ vars:             3                          
+ size:       734,820                          
+---------------------------------------------------------------------------------------------------------
+              storage  display     value
+variable name   type   format      label      variable label
+---------------------------------------------------------------------------------------------------------
+id              long   %20.0g                 Household ID
+secondnet_id    long   %20.0g                 Network Information - ID
+secondnet_obs   float  %9.0g                  
+---------------------------------------------------------------------------------------------------------
+Sorted by:  id
+     Note:  dataset has changed since last saved
+
+. sort secondnet_id
+
+. save 0422secondnet, replace
+file 0422secondnet.dta saved
+
+. 
+. 
+. *************c.define strong social network measure***********
+. *Merge two-sided link information into raw network data
+. use 0422allinforawnet, replace
+
+. drop if network_missname == 1 & network_id == .
+(331 observations deleted)
+
+. sort id network_id
+
+. merge id network_id using 0422twoside
+(note: you are using old merge syntax; see [D] merge for new syntax)
+variables id network_id do not uniquely identify observations in the master data
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          3 |     22,912      100.00      100.00
+------------+-----------------------------------
+      Total |     22,912      100.00
+
+. drop _m
+
+. *Define two-sided network
+. bysort id: gen network_obs = _N
+
+. gen twoside_pre_intensive = .
+(22912 missing values generated)
+
+. replace twoside_pre_intensive = 1 if delay == 0 & intensive == 1 & twoside == 1
+(944 real changes made)
+
+. bysort id: egen twoside_sum_preintensive = sum(twoside_pre_intensive)
+
+. gen network_twoside = twoside_sum_preintensive/network_obs
+
+. keep id network_twoside
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(18250 observations deleted)
+
+. sort id
+
+. save 0422strongnetworkvar, replace
+file 0422strongnetworkvar.dta saved
+
+. 
+. *************d.define weak social network measure***********
+. use 0422allinforawnet, replace
+
+. keep network_id delay intensive
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(15992 observations deleted)
+
+. sort network_id
+
+. save 0422allnetinfo, replace
+file 0422allnetinfo.dta saved
+
+. use 0422secondnet, replace
+
+. rename secondnet_id network_id
+
+. sort network_id
+
+. merge network_id using 0422allnetinfo
+(note: you are using old merge syntax; see [D] merge for new syntax)
+variable network_id does not uniquely identify observations in the master data
+variable network_id does not uniquely identify observations in 0422allnetinfo.dta
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          2 |        313        0.51        0.51
+          3 |     61,235       99.49      100.00
+------------+-----------------------------------
+      Total |     61,548      100.00
+
+. drop _m
+
+. 
+. gen second_pre_intensive = .
+(61548 missing values generated)
+
+. replace second_pre_intensive = 1 if delay == 0 & intensive == 1
+(10330 real changes made)
+
+. bysort id: egen second_sum_preintensive = sum(second_pre_intensive)
+
+. gen network_second = second_sum_preintensive/secondnet_obs
+(313 missing values generated)
+
+. keep id network_second secondnet_obs
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(56955 observations deleted)
+
+. drop if id == .
+(1 observation deleted)
+
+. sort id
+
+. save 0422weaknetworkvar, replace
+file 0422weaknetworkvar.dta saved
+
+. 
+. *************e.merge all network measures together***********
+. use 0422basicnetworkvar, replace
+
+. sort id
+
+. merge id using 0422strongnetworkvar
+(note: you are using old merge syntax; see [D] merge for new syntax)
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          3 |      4,662      100.00      100.00
+------------+-----------------------------------
+      Total |      4,662      100.00
+
+. drop _m
+
+. sort id
+
+. merge id using 0422weaknetworkvar
+(note: you are using old merge syntax; see [D] merge for new syntax)
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |         70        1.50        1.50
+          3 |      4,592       98.50      100.00
+------------+-----------------------------------
+      Total |      4,662      100.00
+
+. drop _m
+
+. sort id
+
+. save 0422networkvar, replace
+file 0422networkvar.dta saved
+
+. 
+. *************************3. Generate social network structural measures: indegree, path length, and eig
+> envector centrality*********************
+. *individual social network structural measures are calculated using UCINET
+. use 0422structure_all, replace
+
+. rename id network_id
+
+. sort network_id
+
+. save 0422structure_network, replace
+file 0422structure_network.dta saved
+
+. 
+. use 0422allinforawnet, replace
+
+. *dropped 331 households
+. drop if network_missname == 1 & network_id == .
+(331 observations deleted)
+
+. d,s
+
+Contains data from 0422allinforawnet.dta
+  obs:        22,912                          
+ vars:            12                          1 May 2014 22:08
+ size:     2,474,496                          
+Sorted by:  
+     Note:  dataset has changed since last saved
+
+. codebook id
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111031,1.120e+09]          units:  1
+         unique values:  4662                     missing .:  0/22912
+
+                  mean:   4.1e+07
+              std. dev:   1.8e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. sort network_id
+
+. merge network_id using 0422structure_network
+(note: you are using old merge syntax; see [D] merge for new syntax)
+variable network_id does not uniquely identify observations in the master data
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |      6,301       27.02       27.02
+          2 |        404        1.73       28.76
+          3 |     16,611       71.24      100.00
+------------+-----------------------------------
+      Total |     23,316      100.00
+
+. drop if _m == 2
+(404 observations deleted)
+
+. drop _m
+
+. 
+. *Define average structural measures of friends
+. foreach x in indegree path_out_ind path_in_ind eigenvector{
+  2.         bysort id: egen mean_allnet`x' = mean(`x')      
+  3.         bysort id: egen mean_1steduc_`x'temp = mean(`x') if delay == 0 & intensive == 1
+  4.         bysort id: egen mean_1steduc_`x' = mean(mean_1steduc_`x'temp)
+  5.         replace mean_1steduc_`x' = 0 if mean_1steduc_`x' == .
+  6.         replace mean_allnet`x' = 0 if mean_allnet`x' == .
+  7. }
+(316 missing values generated)
+(19445 missing values generated)
+(11075 missing values generated)
+(11075 real changes made)
+(316 real changes made)
+(316 missing values generated)
+(19445 missing values generated)
+(11075 missing values generated)
+(11075 real changes made)
+(316 real changes made)
+(316 missing values generated)
+(19445 missing values generated)
+(11075 missing values generated)
+(11075 real changes made)
+(316 real changes made)
+(316 missing values generated)
+(19445 missing values generated)
+(11075 missing values generated)
+(11075 real changes made)
+(316 real changes made)
+
+. keep id mean_allnetindegree mean_1steduc_indegree mean_allnetpath_out_ind mean_1steduc_path_out_ind mea
+> n_allnetpath_in_ind mean_1steduc_path_in_ind mean_allneteigenvector mean_1steduc_eigenvector
+
+. duplicates drop
+
+Duplicates in terms of all variables
+
+(18250 observations deleted)
+
+. sort id
+
+. save 0422netstructure, replace
+file 0422netstructure.dta saved
+
+. 
+. *************************4. Merge social network variables into analysis data*********************
+. use 0422survey, replace
+
+. *Merge into network measures
+. merge id using 0422networkvar
+(note: you are using old merge syntax; see [D] merge for new syntax)
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        314        6.31        6.31
+          2 |         74        1.49        7.80
+          3 |      4,588       92.20      100.00
+------------+-----------------------------------
+      Total |      4,976      100.00
+
+. drop if _m == 2
+(74 observations deleted)
+
+. drop _m
+
+. sort id
+
+. *Merge into friends' network structural measures
+. merge id using 0422netstructure
+(note: you are using old merge syntax; see [D] merge for new syntax)
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        314        6.31        6.31
+          2 |         74        1.49        7.80
+          3 |      4,588       92.20      100.00
+------------+-----------------------------------
+      Total |      4,976      100.00
+
+. drop if _m == 2
+(74 observations deleted)
+
+. drop _m
+
+. sort id
+
+. *Merge into own network structural measures
+. merge id using 0422structure_all
+(note: you are using old merge syntax; see [D] merge for new syntax)
+
+. tab _m
+
+     _merge |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |        314        6.31        6.31
+          2 |         73        1.47        7.78
+          3 |      4,588       92.22      100.00
+------------+-----------------------------------
+      Total |      4,975      100.00
+
+. drop if _m == 2
+(73 observations deleted)
+
+. drop _m
+
+. codebook id
+
+---------------------------------------------------------------------------------------------------------
+id                                                                                           Household ID
+---------------------------------------------------------------------------------------------------------
+
+                  type:  numeric (long)
+
+                 range:  [1111030,1.120e+09]          units:  1
+         unique values:  4902                     missing .:  0/4902
+
+                  mean:   3.4e+07
+              std. dev:   1.6e+08
+
+           percentiles:        10%       25%       50%       75%       90%
+                           1.1e+06   1.1e+06   1.1e+07   1.1e+07   3.3e+07
+
+. d,s
+
+Contains data from 0422survey.dta
+  obs:         4,902                          
+ vars:            59                          1 May 2014 23:07
+ size:     1,200,990                          
+Sorted by:  
+     Note:  dataset has changed since last saved
+
+. sort id
+
+. save 0422analysis, replace
+file 0422analysis.dta saved
+
+. 
+end of do-file
+
+. d
+
+Contains data from 0422analysis.dta
+  obs:         4,902                          
+ vars:            59                          1 May 2014 23:08
+ size:     1,200,990                          
+---------------------------------------------------------------------------------------------------------
+              storage  display     value
+variable name   type   format      label      variable label
+---------------------------------------------------------------------------------------------------------
+id              long   %10.0g                 Household ID
+address         str29  %29s                   Natural Village
+region          byte   %8.0g                  Region
+village         str9   %9s                    Administrative Village
+takeup_survey   byte   %10.0g                 Insurance Take-up: 1=yes, 0=no
+age             byte   %10.0g                 Household Characteristics - Age
+agpop           float  %10.0g                 Household Characteristics - Household Size
+educ            byte   %8.0g                  Household Characteristics - Level of Education,
+                                                0=illiteracy, 1=primary, 2=secon
+rice_inc        int    %10.0g                 % of Household Income from Rice Production
+ricearea_2010   double %10.0g                 Area of Rice Production
+disaster_loss   byte   %10.0g                 Loss in Yield Due to Disaster Last Year
+insurance_repay byte   %10.0g                 Have Received Payouts from Other Insurance Products Before,
+                                                1=yes, 0=no
+insurance_buy   byte   %10.0g                 Prediction on %farmers Purchasing Insurance, 1 if >50%, 0
+                                                if <50%
+disaster_prob   double %10.0g                 Perceived Probability of Disasters Next Year
+general_trust   byte   %8.0g                  Trust on the Government
+male            float  %9.0g                  Household Characteristics: Gender of Household Head,
+                                                1=male, 0=female
+default         byte   %10.0g                 Default Option, 1=Buy, 0=Not Buy
+delay           float  %9.0g                  Assigned to Second Round Sessions, 1=yes, 0=no
+intensive       float  %9.0g                  Assigned to Intensive Sessions, 1=yes, 0=no
+info_takeup_r~e float  %9.0g                  Received Overall Take-up Rate, 1=yes, 0=no
+info_takeup_l~t float  %9.0g                  Received Detailed Take-up Information, 1=yes, 0=no
+info_none       float  %9.0g                  Received no Take-up Information, 1=yes, 0=no
+understanding   float  %9.0g                  Insurance Knowledge Test Score
+day             float  %9.0g                  Days of Experiment
+risk_averse     float  %9.0g                  Risk Aversion
+literacy        float  %9.0g                  1=literate, 0=illiterate
+educ_good       float  %9.0g                  Education Higher than Primary School, 1=yes, 0=no
+reveal          float  %9.0g                  Revealed Purcahse Decisions to Friends
+disaster_yes    float  %9.0g                  Any Disaster Happened Last Year, 1=yes, 0=no
+network_obs     float  %9.0g                  
+network_rate~ve float  %9.0g                  
+network_rate_~n float  %9.0g                  
+network_rate_~p float  %9.0g                  
+network_rate~le float  %9.0g                  
+knowledge_net~k float  %9.0g                  
+friend1         float  %9.0g                  
+friend2         float  %9.0g                  
+friend3         float  %9.0g                  
+friend4         float  %9.0g                  
+friend5         float  %9.0g                  
+network_onlyone float  %9.0g                  
+network_onlytwo float  %9.0g                  
+network_twomore float  %9.0g                  
+network_yes     float  %9.0g                  
+network_twoside float  %9.0g                  
+secondnet_obs   float  %9.0g                  
+network_second  float  %9.0g                  
+mean_allnetin~e float  %9.0g                  
+mean_1steduc_~e float  %9.0g                  
+mean_alln~t_ind float  %9.0g                  
+mean_1ste~t_ind float  %9.0g                  
+mean_alln~n_ind float  %9.0g                  
+mean_1ste~n_ind float  %9.0g                  
+mean_allnetei~r float  %9.0g                  
+mean_1steduc_~r float  %9.0g                  
+eigenvector     float  %8.0g                  Eigenvector Centrality
+indegree        float  %9.0g                  In-degree
+path_in_ind     float  %9.0g                  Average in-Path Length
+path_out_ind    float  %9.0g                  Average out-Path Length
+---------------------------------------------------------------------------------------------------------
+Sorted by:  id
+
+. do "C:\Users\User\AppData\Local\Temp\STD05000000.tmp"
+
+. clear matrix 
+
+. clear
+
+. set more off
+
+. set mem 300m
+set memory ignored.
+    Memory no longer needs to be set in modern Statas; memory adjustments are performed on the fly
+    automatically.
+
+. set matsize 800
+
+. set seed 123456789
+
+. capture log close
