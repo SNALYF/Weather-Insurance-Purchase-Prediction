@@ -1,4 +1,4 @@
-# Empirical Project: China Village Insurance Take-up Analysis
+# China Village Insurance Take-up Analysis
 
 This project analyzes the determinants of insurance take-up in Chinese villages using various econometric and machine learning models, including Logit regression, Lasso regularization, and Random Forest.
 
